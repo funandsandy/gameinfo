@@ -22,7 +22,7 @@ jobs:
 
       - name: 下载 libretro‑database 的dat文件
         run: |
-          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Nintendo%20-%20Game%20Boy%20Advance.dat" -o "Nintendo - Game Boy Advance.dat"
+          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Nintendo%20-%20Game%20Boy%20Advance.dat" -o "gba_no_intro.dat"
 
       - name: 下载 rom‑name‑cn 的csv文件
         run: |
