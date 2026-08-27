@@ -1,45 +1,46 @@
 name: Build gba.dat
 concurrency:
   group: ${{ github.workflow }}‑${{ github.ref_name }}
-  cancel‑in‑progress: true
+  cancel-in-progress: true
 
 on:
-  # 定时轮询 UTC时间，每6小时跑一次；对应北京时间+8
   schedule:
     - cron: '0 */6 * * *'
-  # 支持网页手动点按钮运行
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu‑latest
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
-      contents: write  # 允许actions bot提交代码回仓库
+      contents: write
     steps:
       - name: Checkout 当前仓库代码
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 下载 libretro‑database 的dat文件
         run: |
-          curl -L "https://raw.githubusercontent.com/libretro/libretro‑database/master/metadat/no‑intro/Nintendo%20‑%20Game%20Boy%20Advance.dat" -o "Nintendo - Game Boy Advance.dat"
+          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Nintendo%20-%20Game%20Boy%20Advance.dat" -o "Nintendo - Game Boy Advance.dat"
 
       - name: 下载 rom‑name‑cn 的csv文件
         run: |
-          curl -L "https://raw.githubusercontent.com/yingw/rom‑name‑cn/master/Nintendo%20‑%20Game%20Boy%20Advance.csv" -o "Nintendo - Game Boy Advance.csv"
+          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/yingw/rom-name-cn/master/Nintendo%20-%20Game%20Boy%20Advance.csv" -o "Nintendo - Game Boy Advance.csv"
 
       - name: 设置Python环境
-        uses: actions/setup‑python@v5
+        uses: actions/setup-python@v5
         with:
-          python‑version: "3.12"
+          python-version: "3.12"
+          cache: 'pip'
 
       - name: 运行合并脚本生成gba.dat
         run: python3 merge_dat_cn.py
 
       - name: 提交更新的gba.dat（仅当文件变化才提交）
         run: |
-          git config --local user.name "github‑actions[bot]"
-          git config --local user.email "github‑actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add gba.dat
-          # 没有变更就跳过commit
-          git diff‑index --quiet HEAD || git commit -m "auto: update gba.dat from upstream sources"
+          git diff-index --quiet HEAD || git commit -m "auto: update gba.dat from upstream sources"
           git push
