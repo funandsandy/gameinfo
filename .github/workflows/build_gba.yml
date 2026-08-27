@@ -33,6 +33,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: 创建输出data目录
+        run: mkdir -p data
+        
       - name: 运行合并脚本生成gba.dat
         run: python3 merge_dat_cn.py
 
