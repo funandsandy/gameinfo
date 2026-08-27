@@ -1,4 +1,8 @@
 name: Build gba.dat
+concurrency:
+  group: ${{ github.workflow }}‑${{ github.ref_name }}
+  cancel‑in‑progress: true
+
 on:
   # 定时轮询 UTC时间，每6小时跑一次；对应北京时间+8
   schedule:
