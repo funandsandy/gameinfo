@@ -26,7 +26,7 @@ jobs:
 
       - name: 下载 rom‑name‑cn 的csv文件
         run: |
-          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/yingw/rom-name-cn/master/Nintendo%20-%20Game%20Boy%20Advance.csv" -o "Nintendo - Game Boy Advance.csv"
+          curl -L --connect-timeout 30 --retry 3 "https://raw.githubusercontent.com/yingw/rom-name-cn/master/Nintendo%20-%20Game%20Boy%20Advance.csv" -o "gba_names_cn.csv"
 
       - name: 设置Python环境
         uses: actions/setup-python@v5
