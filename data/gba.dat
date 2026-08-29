@@ -4903,7 +4903,7 @@
 	<game name="Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan)" cnname="哈罗之咕噜咕噜砖块">
 		<rom name="Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan).gba" size="8388608" crc="A7825224" serial="BH6J" />
 	</game>
-	<game name="Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)">
+	<game name="Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)" cnname="机动战士高达 SEED - 君与友的战场">
 		<rom name="Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan).gba" size="8388608" crc="73BF384B" serial="BGNJ" />
 	</game>
 	<game name="Kidou Senshi Gundam SEED Destiny (Japan)">
@@ -6400,7 +6400,7 @@
 	<game name="Mobile Pro Yakyuu - Kantoku no Saihai (Japan)" cnname="职业棒球 - 行动版">
 		<rom name="Mobile Pro Yakyuu - Kantoku no Saihai (Japan).gba" size="8388608" crc="8DF8A0C0" serial="AMBJ" />
 	</game>
-	<game name="Mobile Suit Gundam SEED - Battle Assault (USA)">
+	<game name="Mobile Suit Gundam SEED - Battle Assault (USA)" cnname="高达 Seed - 格斗篇">
 		<rom name="Mobile Suit Gundam SEED - Battle Assault (USA).gba" size="4194304" crc="180D1491" serial="BGNE" />
 	</game>
 	<game name="Moero!! Jaleco Collection (Japan)" cnname="燃烧系列合集">
