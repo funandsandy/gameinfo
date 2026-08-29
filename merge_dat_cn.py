@@ -19,15 +19,19 @@ from html import escape
 
 
 def load_cn_names(csv_path):
-    """加载 CSV 中英文映射表"""
+    """加载 CSV 中英文映射表, 同时构建大小写不敏感索引"""
     en_to_cn = {}
+    en_to_cn_lower = {}
     with open(csv_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
         reader = csv.reader(f)
         header = next(reader, None)
         for row in reader:
             if len(row) >= 2 and row[1].strip():
-                en_to_cn[row[0].strip()] = row[1].strip()
-    return en_to_cn
+                name = row[0].strip()
+                cn = row[1].strip()
+                en_to_cn[name] = cn
+                en_to_cn_lower[name.lower()] = cn
+    return en_to_cn, en_to_cn_lower
 
 
 def parse_cmp_dat(dat_path):
@@ -89,7 +93,7 @@ def parse_cmp_dat(dat_path):
     return games
 
 
-def build_xml(games, en_to_cn):
+def build_xml(games, en_to_cn, en_to_cn_lower):
     """生成 XML DAT 字符串"""
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
@@ -105,6 +109,19 @@ def build_xml(games, en_to_cn):
     for game in games:
         en_name = game['name']
         cn_name = en_to_cn.get(en_name, '')
+        # 大小写不敏感匹配
+        if not cn_name:
+            cn_name = en_to_cn_lower.get(en_name.lower(), '')
+        # 尝试去掉括号后匹配
+        if not cn_name:
+            clean_name = re.sub(r'\s*\([^)]*\)', '', en_name).strip()
+            cn_name = en_to_cn.get(clean_name, '')
+            if not cn_name:
+                cn_name = en_to_cn_lower.get(clean_name.lower(), '')
+        if not cn_name:
+            cn_name = en_to_cn.get(clean_name.rstrip('.'), '')
+            if not cn_name:
+                cn_name = en_to_cn_lower.get(clean_name.rstrip('.').lower(), '')
 
         if cn_name:
             matched += 1
@@ -147,7 +164,7 @@ def main():
         sys.exit(1)
 
     print("加载中文名映射表...")
-    en_to_cn = load_cn_names(csv_path)
+    en_to_cn, en_to_cn_lower = load_cn_names(csv_path)
     print(f"  CSV 共 {len(en_to_cn)} 条中文名")
 
     print("解析 No-Intro DAT...")
@@ -155,7 +172,7 @@ def main():
     print(f"  DAT 共 {len(games)} 条游戏")
 
     print("合成 XML DAT...")
-    xml = build_xml(games, en_to_cn)
+    xml = build_xml(games, en_to_cn, en_to_cn_lower)
 
     with open(out_path, 'w', encoding='utf-8') as f:
         f.write(xml)
