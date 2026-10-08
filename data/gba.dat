@@ -313,14 +313,14 @@
 	<game name="2048 (World) (GBA Jam 2024)">
 		<rom name="2048 (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="247232" crc="82D431A4" />
 	</game>
+	<game name="2048 (World) (v1.3.1)">
+		<rom name="2048 (World) (v1.3.1) (Aftermarket) (Unl).gba" size="262144" crc="1C4B5DCF" />
+	</game>
 	<game name="2048 Pool (World)">
 		<rom name="2048 Pool (World) (Aftermarket) (Unl).gba" size="203440" crc="9DF6AE4F" />
 	</game>
 	<game name="2K Sports - Major League Baseball 2K7 (USA)" cnname="美国职业棒球大联盟 2007">
 		<rom name="2K Sports - Major League Baseball 2K7 (USA).gba" size="8388608" crc="8F3FF0E4" serial="B2YE" />
-	</game>
-	<game name="2K Sports - Major League Baseball 2K7 (USA) (Beta)" cnname="美国职业棒球大联盟 2007">
-		<rom name="2K Sports - Major League Baseball 2K7 (USA) (Beta).gba" size="8388608" crc="EA51532D" serial="BYMP" />
 	</game>
 	<game name="3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA)" cnname="游戏3合1 - 幼儿益智游戏合集">
 		<rom name="3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA).gba" size="4194304" crc="628A8E32" serial="BC4E" />
@@ -388,9 +388,6 @@
 	<game name="Ab durch die Hecke (Germany)" cnname="篱笆墙外">
 		<rom name="Ab durch die Hecke (Germany).gba" size="8388608" crc="31E57A19" serial="BH5D" />
 	</game>
-	<game name="Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta)" cnname="王牌空战 A">
-		<rom name="Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta).gba" size="4194304" crc="76DA5C78" />
-	</game>
 	<game name="Ace Combat Advance (USA, Europe)" cnname="王牌空战 A">
 		<rom name="Ace Combat Advance (USA, Europe).gba" size="4194304" crc="43F5E157" serial="BAEE" />
 	</game>
@@ -406,17 +403,17 @@
 	<game name="Action Replay (Europe) (En,Fr,De,It) (v3.3)">
 		<rom name="Action Replay (Europe) (En,Fr,De,It) (v3.3) (Unl).gba" size="262144" crc="4304BD2D" />
 	</game>
+	<game name="Action Replay GBX (Europe)">
+		<rom name="Action Replay GBX (Europe) (Unl).gba" size="262144" crc="5AD72359" />
+	</game>
+	<game name="Action Replay GBX (Europe) (En,Fr,De,It)">
+		<rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl) (Alt).gba" size="262144" crc="45BB6F4E" />
+	</game>
 	<game name="Action Replay GBX (Europe) (En,Fr,De,It)">
 		<rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl).gba" size="262144" crc="18CE5322" />
 	</game>
-	<game name="Action Replay GBX (Europe) (En,Fr,De,It) (Alt)">
-		<rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl) (Alt).gba" size="262144" crc="45BB6F4E" />
-	</game>
 	<game name="Action Replay GBX (Europe) (En,Fr,De,It) (v3.1)">
 		<rom name="Action Replay GBX (Europe) (En,Fr,De,It) (v3.1) (Unl).gba" size="262144" crc="3DB7A213" />
-	</game>
-	<game name="Action Replay GBX (Europe)">
-		<rom name="Action Replay GBX (Europe) (Unl).gba" size="262144" crc="5AD72359" />
 	</game>
 	<game name="Action Replay GBX (France)">
 		<rom name="Action Replay GBX (France) (Unl).gba" size="262144" crc="F1173773" />
@@ -487,9 +484,6 @@
 	<game name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany)" cnname="天才男孩吉米中子VS吉米负电子">
 		<rom name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany).gba" size="4194304" crc="3690C0FD" serial="AJXD" />
 	</game>
-	<game name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany) (Beta)" cnname="天才男孩吉米中子VS吉米负电子">
-		<rom name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany) (Beta).gba" size="4157240" crc="220CCF25" serial="AGBJ" />
-	</game>
 	<game name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe)" cnname="天才男孩吉米中子VS吉米负电子">
 		<rom name="Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe).gba" size="4194304" crc="D2CED674" serial="AJXE" />
 	</game>
@@ -504,12 +498,6 @@
 	</game>
 	<game name="Aero the Acro-Bat (USA)" cnname="飞翔蝙蝠">
 		<rom name="Aero the Acro-Bat (USA).gba" size="4194304" crc="B47AC020" serial="AAOE" />
-	</game>
-	<game name="Aero the Acro-Bat (USA) (Beta 1)" cnname="飞翔蝙蝠">
-		<rom name="Aero the Acro-Bat (USA) (Beta 1).gba" size="1030244" crc="BEED50F0" serial="AEJE" />
-	</game>
-	<game name="Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2)">
-		<rom name="Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2).gba" size="4194304" crc="6F3EA564" serial="XXXX" />
 	</game>
 	<game name="Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)" cnname="阿加西网球世代 2002">
 		<rom name="Agassi Tennis Generation (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="90D759E2" serial="ACEP" />
@@ -592,12 +580,6 @@
 	<game name="All-Star Baseball 2003 (USA)" cnname="全美明星棒球 2003">
 		<rom name="All-Star Baseball 2003 (USA).gba" size="4194304" crc="E30691FE" serial="AA3E" />
 	</game>
-	<game name="All-Star Baseball 2004 (USA) (Beta 1)" cnname="全美明星棒球 2004">
-		<rom name="All-Star Baseball 2004 (USA) (Beta 1).gba" size="8388608" crc="D6106C26" serial="ASNB" />
-	</game>
-	<game name="All-Star Baseball 2004 (USA) (Beta 2)" cnname="全美明星棒球 2004">
-		<rom name="All-Star Baseball 2004 (USA) (Beta 2).gba" size="8388608" crc="6AA9B41E" serial="AA3E" />
-	</game>
 	<game name="All-Star Baseball 2004 Featuring Derek Jeter (USA)" cnname="全美明星棒球 2004">
 		<rom name="All-Star Baseball 2004 Featuring Derek Jeter (USA).gba" size="8388608" crc="60E2DB03" serial="AA7E" />
 	</game>
@@ -613,29 +595,8 @@
 	<game name="American Bass Challenge (USA)" cnname="美国巴斯钓鱼挑战赛">
 		<rom name="American Bass Challenge (USA).gba" size="4194304" crc="D76AD62D" serial="AABE" />
 	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 1)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 1).gba" size="8388608" crc="8DF1B63B" serial="BJWE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 2)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 2).gba" size="8388608" crc="A9384458" serial="BJWE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 3)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 3).gba" size="8388608" crc="DA9D458F" serial="BJWE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 4)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 4).gba" size="8388608" crc="29AFE447" serial="BJWE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 5)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 5).gba" size="8388608" crc="8F9253BB" serial="BJWE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 6)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 6).gba" size="4469328" crc="B96C5A0B" serial="BJWE" />
-	</game>
 	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It)" cnname="美国龙 - 杰克龙">
 		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="698377D2" serial="BAPE" />
-	</game>
-	<game name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It) (Beta 7)">
-		<rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It) (Beta 7).gba" size="7551852" crc="BDCC074A" serial="BAPE" />
 	</game>
 	<game name="American Idol (USA)" cnname="美国偶像超巨星节拍">
 		<rom name="American Idol (USA).gba" size="16777216" crc="F053FFBF" serial="BIDE" />
@@ -679,7 +640,7 @@
 	<game name="Anguna - Warriors of Virtue (World) (v0.93)">
 		<rom name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl).gba" size="1710624" crc="DF7108E3" />
 	</game>
-	<game name="Anguna - Warriors of Virtue (World) (v0.93) (Alt)">
+	<game name="Anguna - Warriors of Virtue (World) (v0.93)">
 		<rom name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl) (Alt).gba" size="1714000" crc="54FF2E56" />
 	</game>
 	<game name="Anguna - Warriors of Virtue (World) (v0.94)">
@@ -799,12 +760,6 @@
 	<game name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)" cnname="幻想新国度">
 		<rom name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="A9B1ECE5" serial="BLXP" />
 	</game>
-	<game name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl) (Beta 2)" cnname="幻想新国度">
-		<rom name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl) (Beta 2).gba" size="8388608" crc="52824B58" />
-	</game>
-	<game name="Asterix &amp; Obelix XXL (Europe) (Fr) (Beta 1)" cnname="幻想新国度">
-		<rom name="Asterix &amp; Obelix XXL (Europe) (Fr) (Beta 1).gba" size="8388608" crc="F6A977A5" />
-	</game>
 	<game name="Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It)" cnname="铁臂阿童木 - 阿童木之心的秘密">
 		<rom name="Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It).gba" size="8388608" crc="1E2E8937" serial="BTAP" />
 	</game>
@@ -828,9 +783,6 @@
 	</game>
 	<game name="Atomic Betty (USA, Europe)" cnname="超级贝蒂">
 		<rom name="Atomic Betty (USA, Europe).gba" size="8388608" crc="8919D82C" serial="BETE" />
-	</game>
-	<game name="Atomic Betty (USA, Europe) (Beta)" cnname="超级贝蒂">
-		<rom name="Atomic Betty (USA, Europe) (Beta).gba" size="8388608" crc="B79472B8" />
 	</game>
 	<game name="Atomix (World)">
 		<rom name="Atomix (World) (Unl).gba" size="934600" crc="FC610889" />
@@ -879,9 +831,6 @@
 	</game>
 	<game name="Back to Stone (Europe) (En,Fr)" cnname="重返石头城">
 		<rom name="Back to Stone (Europe) (En,Fr).gba" size="4194304" crc="5730C85A" serial="BBCP" />
-	</game>
-	<game name="Back to Stone (Europe) (En,Fr,De) (Beta)" cnname="重返石头城">
-		<rom name="Back to Stone (Europe) (En,Fr,De) (Beta).gba" size="4194304" crc="EF365600" />
 	</game>
 	<game name="Back to Stone (USA) (En,Fr)" cnname="重返石头城">
 		<rom name="Back to Stone (USA) (En,Fr).gba" size="4194304" crc="4C29C9C8" serial="BBCE" />
@@ -940,12 +889,6 @@
 	<game name="Ballistic - Ecks vs. Sever (USA)" cnname="艾克斯VS瑟娃 - 弹道专家">
 		<rom name="Ballistic - Ecks vs. Sever (USA).gba" size="8388608" crc="0477F153" serial="AEEE" />
 	</game>
-	<game name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (Beta 1)" cnname="班卓熊 - 格兰蒂的复仇">
-		<rom name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (Beta 1).gba" size="8019096" crc="4E0F10FA" />
-	</game>
-	<game name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (Beta 2)" cnname="班卓熊 - 格兰蒂的复仇">
-		<rom name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (Beta 2).gba" size="8337992" crc="106ED779" />
-	</game>
 	<game name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (En,Fr,De)" cnname="班卓熊 - 格兰蒂的复仇">
 		<rom name="Banjo-Kazooie - Grunty&#x27;s Revenge (Europe) (En,Fr,De).gba" size="8388608" crc="FB4F38E2" serial="BKZX" />
 	</game>
@@ -958,14 +901,8 @@
 	<game name="Banjo-Kazooie - La Venganza de Grunty (Spain)" cnname="班卓熊 - 格兰蒂的复仇">
 		<rom name="Banjo-Kazooie - La Venganza de Grunty (Spain).gba" size="8388608" crc="32544634" serial="BKZS" />
 	</game>
-	<game name="Banjo-Pilot (Europe) (Beta 1)" cnname="班卓熊飞行员">
-		<rom name="Banjo-Pilot (Europe) (Beta 1).gba" size="15545696" crc="817FD31D" serial="XXXX" />
-	</game>
 	<game name="Banjo-Pilot (Europe) (En,Fr,De,Es,It)" cnname="班卓熊飞行员">
 		<rom name="Banjo-Pilot (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="B98DE3A4" serial="BAJP" />
-	</game>
-	<game name="Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2)">
-		<rom name="Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="16777216" crc="3168A9A4" />
 	</game>
 	<game name="Banjo-Pilot (USA)" cnname="班卓熊飞行员">
 		<rom name="Banjo-Pilot (USA).gba" size="16777216" crc="6E4030A1" serial="BAJE" />
@@ -1012,18 +949,6 @@
 	<game name="Barbie and the Magic of Pegasus (USA)" cnname="芭比娃娃与飞马魔法">
 		<rom name="Barbie and the Magic of Pegasus (USA).gba" size="4194304" crc="29D23835" serial="BE5E" />
 	</game>
-	<game name="Barbie and the Magic of Pegasus (USA) (Beta 1)">
-		<rom name="Barbie and the Magic of Pegasus (USA) (Beta 1).gba" size="136680" crc="AE6CF631" />
-	</game>
-	<game name="Barbie and the Magic of Pegasus (USA) (Beta 2)">
-		<rom name="Barbie and the Magic of Pegasus (USA) (Beta 2).gba" size="360672" crc="BD807770" />
-	</game>
-	<game name="Barbie and the Magic of Pegasus (USA) (Beta 3)">
-		<rom name="Barbie and the Magic of Pegasus (USA) (Beta 3).gba" size="1502628" crc="4B58B5D6" />
-	</game>
-	<game name="Barbie and the Magic of Pegasus (USA) (Beta 4)">
-		<rom name="Barbie and the Magic of Pegasus (USA) (Beta 4).gba" size="2837392" crc="46F21E41" />
-	</game>
 	<game name="Barbie as The Island Princess (USA)" cnname="芭比 - 森林公主">
 		<rom name="Barbie as The Island Princess (USA).gba" size="8388608" crc="DB6160EB" serial="BBNE" />
 	</game>
@@ -1038,9 +963,6 @@
 	</game>
 	<game name="Barnyard (USA)" cnname="疯狂农庄">
 		<rom name="Barnyard (USA).gba" size="8388608" crc="FF7987DA" serial="BBYE" />
-	</game>
-	<game name="Barnyard (USA) (En,Fr,De,Es,It,Nl) (Beta)" cnname="疯狂农庄">
-		<rom name="Barnyard (USA) (En,Fr,De,Es,It,Nl) (Beta).gba" size="8388608" crc="178CAE0D" serial="BBYE" />
 	</game>
 	<game name="Baseball Advance (USA)" cnname="棒球 A">
 		<rom name="Baseball Advance (USA).gba" size="8388608" crc="339F35B8" serial="ABPE" />
@@ -1149,9 +1071,6 @@
 	</game>
 	<game name="Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It)" cnname="爆转陀螺王 - 力量之最终冲击">
 		<rom name="Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="02CF5E5C" serial="BEYP" />
-	</game>
-	<game name="Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It) (Beta)" cnname="爆转陀螺王 - 力量之最终冲击">
-		<rom name="Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="55CAE46A" />
 	</game>
 	<game name="Beyblade V-Force - Ultimate Blader Jam (USA)" cnname="爆转陀螺王 - 力量之最终冲击">
 		<rom name="Beyblade V-Force - Ultimate Blader Jam (USA).gba" size="8388608" crc="4A49272B" serial="BEYE" />
@@ -1519,9 +1438,6 @@
 	<game name="CT Special Forces (Europe) (En,Fr,De,Es,It,Nl)" cnname="CT特种部队">
 		<rom name="CT Special Forces (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="A20D9ADB" serial="AC7P" />
 	</game>
-	<game name="CT Special Forces (Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="CT特种部队">
-		<rom name="CT Special Forces (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="4194304" crc="40A0E1C9" serial="AC7P" />
-	</game>
 	<game name="CT Special Forces (USA) (En,Fr,De,Es,It,Nl)" cnname="CT特种部队">
 		<rom name="CT Special Forces (USA) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="AEA22AE0" serial="AC7E" />
 	</game>
@@ -1548,9 +1464,6 @@
 	</game>
 	<game name="Caesars Palace Advance - Millennium Gold Edition (USA, Europe)" cnname="凯撒的宫殿 A - 千禧黄金版">
 		<rom name="Caesars Palace Advance - Millennium Gold Edition (USA, Europe).gba" size="8388608" crc="5D54ECE5" serial="ACPE" />
-	</game>
-	<game name="Caesars Palace Advance - Millennium Gold Edition (USA, Europe) (Beta)" cnname="凯撒的宫殿 A - 千禧黄金版">
-		<rom name="Caesars Palace Advance - Millennium Gold Edition (USA, Europe) (Beta).gba" size="4194304" crc="13DC0731" />
 	</game>
 	<game name="Calciobit (Japan)" cnname="轻松玩欢乐足球">
 		<rom name="Calciobit (Japan).gba" size="8388608" crc="498443DA" serial="BIXJ" />
@@ -1626,9 +1539,6 @@
 	</game>
 	<game name="Cartoon Network Block Party (USA)" cnname="卡通频道 - 疯狂派对">
 		<rom name="Cartoon Network Block Party (USA).gba" size="4194304" crc="EDC0CCEE" serial="AC9E" />
-	</game>
-	<game name="Cartoon Network Block Party (USA) (Beta)">
-		<rom name="Cartoon Network Block Party (USA) (Beta).gba" size="4900420" crc="5CFAC364" serial="AHYE" />
 	</game>
 	<game name="Cartoon Network Speedway (USA)" cnname="卡通网 - 高速飙车">
 		<rom name="Cartoon Network Speedway (USA).gba" size="4194304" crc="066A2705" serial="ANRE" />
@@ -1840,9 +1750,6 @@
 	<game name="Chou Makaimura R (Japan) (Virtual Console)" cnname="超魔界村 R">
 		<rom name="Chou Makaimura R (Japan) (Virtual Console).gba" size="4194304" crc="24840E7C" serial="ACJJ" />
 	</game>
-	<game name="Chrismas Challenge (World) (Beta)">
-		<rom name="Chrismas Challenge (World) (Beta) (Aftermarket) (Unl).gba" size="4093084" crc="24AE8BC8" />
-	</game>
 	<game name="Christmas Game, The (World)">
 		<rom name="Christmas Game, The (World) (Aftermarket) (Unl).gba" size="2552924" crc="B2431BAD" />
 	</game>
@@ -1960,9 +1867,6 @@
 	<game name="Commandos 2 (Japan) (Proto)">
 		<rom name="Commandos 2 (Japan) (Proto).gba" size="2644724" crc="DD58AECD" />
 	</game>
-	<game name="Contra Advance (USA) (Beta)">
-		<rom name="Contra Advance (USA) (Beta).gba" size="4194304" crc="511D7556" />
-	</game>
 	<game name="Contra Advance - The Alien Wars EX (Europe)" cnname="魂斗罗 A - 异型战争 EX">
 		<rom name="Contra Advance - The Alien Wars EX (Europe).gba" size="4194304" crc="5F443B14" serial="AAWP" />
 	</game>
@@ -2065,20 +1969,11 @@
 	<game name="Crazy Chase (Europe) (En,Fr,De)" cnname="疯狂的追击">
 		<rom name="Crazy Chase (Europe) (En,Fr,De).gba" size="4194304" crc="313F4FFC" serial="ACCP" />
 	</game>
-	<game name="Crazy Chase (Europe) (En,Fr,De) (Beta)" cnname="疯狂的追击">
-		<rom name="Crazy Chase (Europe) (En,Fr,De) (Beta).gba" size="4194304" crc="5F331132" serial="APXJ" />
-	</game>
 	<game name="Crazy Chase (USA)" cnname="疯狂的追击">
 		<rom name="Crazy Chase (USA).gba" size="4194304" crc="CABA1DB9" serial="ACCE" />
 	</game>
-	<game name="Crazy Chase (USA) (Beta)" cnname="疯狂的追击">
-		<rom name="Crazy Chase (USA) (Beta).gba" size="4194304" crc="FF7E2E9B" serial="APXJ" />
-	</game>
 	<game name="Crazy Frog Racer (Europe) (En,Fr,De,Nl)" cnname="疯狂青蛙赛车">
 		<rom name="Crazy Frog Racer (Europe) (En,Fr,De,Nl).gba" size="4194304" crc="2723236B" serial="BCRP" />
-	</game>
-	<game name="Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta)" cnname="疯狂出租车">
-		<rom name="Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta).gba" size="8388608" crc="FE0D0B86" />
 	</game>
 	<game name="Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It)" cnname="疯狂出租车">
 		<rom name="Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="4AEBD704" serial="A3CP" />
@@ -2122,23 +2017,11 @@
 	<game name="Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)" cnname="卧虎藏龙">
 		<rom name="Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="B9A75AC4" serial="AQDP" />
 	</game>
-	<game name="Crouching Tiger, Hidden Dragon (USA) (Beta 1)" cnname="卧虎藏龙">
-		<rom name="Crouching Tiger, Hidden Dragon (USA) (Beta 1).gba" size="3353604" crc="A1D2D006" />
-	</game>
-	<game name="Crouching Tiger, Hidden Dragon (USA) (Beta 2)" cnname="卧虎藏龙">
-		<rom name="Crouching Tiger, Hidden Dragon (USA) (Beta 2).gba" size="8388608" crc="1EF6F82E" />
-	</game>
-	<game name="Crouching Tiger, Hidden Dragon (USA) (Beta 3)">
-		<rom name="Crouching Tiger, Hidden Dragon (USA) (Beta 3).gba" size="8388608" crc="204FF8D5" />
-	</game>
 	<game name="Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)" cnname="卧虎藏龙">
 		<rom name="Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es).gba" size="8388608" crc="579BA507" serial="AQDE" />
 	</game>
 	<game name="Cruis&#x27;n Velocity (USA, Europe)" cnname="劲速狂飙车">
 		<rom name="Cruis&#x27;n Velocity (USA, Europe).gba" size="4194304" crc="ADF14DB5" serial="ACFE" />
-	</game>
-	<game name="Cruis&#x27;n Velocity (USA, Europe) (Beta)" cnname="劲速狂飙车">
-		<rom name="Cruis&#x27;n Velocity (USA, Europe) (Beta).gba" size="8388608" crc="5436D5DA" />
 	</game>
 	<game name="Crushed Baseball (USA)" cnname="热血棒球">
 		<rom name="Crushed Baseball (USA).gba" size="4194304" crc="55FE8579" serial="BCBE" />
@@ -2347,20 +2230,11 @@
 	<game name="Diadroids World - Evil Teikoku no Yabou (Japan)" cnname="危险的世界">
 		<rom name="Diadroids World - Evil Teikoku no Yabou (Japan).gba" size="8388608" crc="A2D6CEA6" serial="ADDJ" />
 	</game>
-	<game name="Diddy Kong Pilot (USA) (Beta 1)">
-		<rom name="Diddy Kong Pilot (USA) (Beta 1).gba" size="5080644" crc="5C206101" />
-	</game>
-	<game name="Diddy Kong Pilot (USA) (Beta 2)">
-		<rom name="Diddy Kong Pilot (USA) (Beta 2).gba" size="12277472" crc="057DC388" serial="RARE" />
-	</game>
 	<game name="DigiCommunication Nyo - Datou! Black Gemagema Dan (Japan)" cnname="便利商店 2 - 打倒熊猫少女团">
 		<rom name="DigiCommunication Nyo - Datou! Black Gemagema Dan (Japan).gba" size="16777216" crc="1372E829" serial="BDKJ" />
 	</game>
 	<game name="Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It)" cnname="数码宝贝 - 格斗之魂">
 		<rom name="Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="EA5FC3DA" serial="A8SP" />
-	</game>
-	<game name="Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It) (Beta)" cnname="数码宝贝 - 格斗之魂">
-		<rom name="Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It) (Beta).gba" size="4194304" crc="DA8677AD" />
 	</game>
 	<game name="Digimon - Battle Spirit (USA)" cnname="数码宝贝 - 格斗之魂">
 		<rom name="Digimon - Battle Spirit (USA).gba" size="4194304" crc="CEEF2008" serial="A8SE" />
@@ -2572,9 +2446,6 @@
 	<game name="Donkey Kong Country 3 (USA)" cnname="超级大金刚 3">
 		<rom name="Donkey Kong Country 3 (USA).gba" size="16777216" crc="FE03E5AF" serial="BDQE" />
 	</game>
-	<game name="Donkey Kong Country 3 (USA) (Beta)">
-		<rom name="Donkey Kong Country 3 (USA) (Beta).gba" size="16777216" crc="8DD750EF" serial="A5NE" />
-	</game>
 	<game name="Donsol (World)">
 		<rom name="Donsol (World) (Aftermarket) (Unl).gba" size="52520" crc="AEC144B3" />
 	</game>
@@ -2604,9 +2475,6 @@
 	</game>
 	<game name="Dora the Explorer Double Pack (USA)" cnname="游戏2合1 - 朵拉大冒险合集">
 		<rom name="Dora the Explorer Double Pack (USA).gba" size="8388608" crc="1F9D002E" serial="B2EE" />
-	</game>
-	<game name="Dora the Explorer Double Pack (USA) (Beta)" cnname="游戏2合1 - 朵拉大冒险合集">
-		<rom name="Dora the Explorer Double Pack (USA) (Beta).gba" size="8388608" crc="185F34F5" serial="B2EE" />
 	</game>
 	<game name="Doraemon - Dokodemo Walker (Japan)" cnname="机器猫棋盘游戏">
 		<rom name="Doraemon - Dokodemo Walker (Japan).gba" size="8388608" crc="E28AFEBC" serial="ADPJ" />
@@ -2677,29 +2545,17 @@
 	<game name="Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)" cnname="龙珠大冒险">
 		<rom name="Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="6C135820" serial="BDVP" />
 	</game>
-	<game name="Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta)">
-		<rom name="Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta).gba" size="16777216" crc="2B136906" />
-	</game>
 	<game name="Dragon Ball - Advanced Adventure (USA)" cnname="龙珠大冒险">
 		<rom name="Dragon Ball - Advanced Adventure (USA).gba" size="16777216" crc="7D7306DF" serial="BDVE" />
 	</game>
 	<game name="Dragon Ball GT - Transformation (USA)" cnname="龙珠 GT - 突变">
 		<rom name="Dragon Ball GT - Transformation (USA).gba" size="8388608" crc="AD964A91" serial="BT4E" />
 	</game>
-	<game name="Dragon Ball GT - Transformation (USA) (Beta)">
-		<rom name="Dragon Ball GT - Transformation (USA) (Beta).gba" size="8388608" crc="431BC807" />
-	</game>
 	<game name="Dragon Ball Z - Bukuu Tougeki (Japan)" cnname="龙珠 Z - 舞空斗剧">
 		<rom name="Dragon Ball Z - Bukuu Tougeki (Japan).gba" size="16777216" crc="6C0F0B86" serial="AZJJ" />
 	</game>
 	<game name="Dragon Ball Z - Buu&#x27;s Fury (USA)" cnname="龙珠 Z - 布欧的愤怒">
 		<rom name="Dragon Ball Z - Buu&#x27;s Fury (USA).gba" size="8388608" crc="01C1707F" serial="BG3E" />
-	</game>
-	<game name="Dragon Ball Z - Buu&#x27;s Fury (USA) (Beta 1)">
-		<rom name="Dragon Ball Z - Buu&#x27;s Fury (USA) (Beta 1).gba" size="8388608" crc="C35BBC5D" />
-	</game>
-	<game name="Dragon Ball Z - Buu&#x27;s Fury (USA) (Beta 2)">
-		<rom name="Dragon Ball Z - Buu&#x27;s Fury (USA) (Beta 2).gba" size="8388608" crc="E8CCD531" />
 	</game>
 	<game name="Dragon Ball Z - Collectible Card Game (USA)" cnname="龙珠 Z - 卡片收集游戏">
 		<rom name="Dragon Ball Z - Collectible Card Game (USA).gba" size="8388608" crc="F6124D7F" serial="ADZE" />
@@ -2710,12 +2566,6 @@
 	<game name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It)" cnname="龙珠 Z - 舞空斗剧">
 		<rom name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="B4D9572C" serial="AZJP" />
 	</game>
-	<game name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 1)" cnname="龙珠 Z - 舞空斗剧">
-		<rom name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 1).gba" size="16777216" crc="73C132FE" />
-	</game>
-	<game name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 2)" cnname="龙珠 Z - 舞空斗剧">
-		<rom name="Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="16777216" crc="F20C38D0" />
-	</game>
 	<game name="Dragon Ball Z - Supersonic Warriors (USA)" cnname="龙珠 Z - 舞空斗剧">
 		<rom name="Dragon Ball Z - Supersonic Warriors (USA).gba" size="16777216" crc="9A857A70" serial="AZJE" />
 	</game>
@@ -2724,9 +2574,6 @@
 	</game>
 	<game name="Dragon Ball Z - Taiketsu (USA)" cnname="龙珠 Z - 对决">
 		<rom name="Dragon Ball Z - Taiketsu (USA).gba" size="8388608" crc="64EC07E7" serial="BDBE" />
-	</game>
-	<game name="Dragon Ball Z - Taiketsu (USA) (Beta)" cnname="龙珠 Z - 对决">
-		<rom name="Dragon Ball Z - Taiketsu (USA) (Beta).gba" size="8388608" crc="92CABBBE" />
 	</game>
 	<game name="Dragon Ball Z - The Legacy of Goku (Europe) (En,Fr,De,Es,It)" cnname="龙珠 Z - 悟空的遗产">
 		<rom name="Dragon Ball Z - The Legacy of Goku (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="CA6E149C" serial="ALGP" />
@@ -2740,23 +2587,8 @@
 	<game name="Dragon Ball Z - The Legacy of Goku II (USA)" cnname="龙珠 Z - 悟空的遗产 2">
 		<rom name="Dragon Ball Z - The Legacy of Goku II (USA).gba" size="8388608" crc="204142E1" serial="ALFE" />
 	</game>
-	<game name="Dragon Ball Z - The Legacy of Goku II (USA) (Beta 1)">
-		<rom name="Dragon Ball Z - The Legacy of Goku II (USA) (Beta 1).gba" size="7282372" crc="3C30F5B3" />
-	</game>
-	<game name="Dragon Ball Z - The Legacy of Goku II (USA) (Beta 2)">
-		<rom name="Dragon Ball Z - The Legacy of Goku II (USA) (Beta 2).gba" size="7279012" crc="25F34DBC" />
-	</game>
 	<game name="Dragon Ball Z - The Legacy of Goku II International (Japan)" cnname="龙珠 Z - 悟空的遗产 2">
 		<rom name="Dragon Ball Z - The Legacy of Goku II International (Japan).gba" size="8388608" crc="B3297D59" serial="ALFJ" />
-	</game>
-	<game name="Dragon Ball Z - The Legacy of Goku III (USA) (Beta)">
-		<rom name="Dragon Ball Z - The Legacy of Goku III (USA) (Beta).gba" size="8388608" crc="865B15BA" />
-	</game>
-	<game name="Dragon Ball Z Fusion - The Legacy of Goku III (USA) (Beta 1)">
-		<rom name="Dragon Ball Z Fusion - The Legacy of Goku III (USA) (Beta 1).gba" size="8388608" crc="2BEBD716" />
-	</game>
-	<game name="Dragon Ball Z Fusion - The Legacy of Goku III (USA) (Beta 2)">
-		<rom name="Dragon Ball Z Fusion - The Legacy of Goku III (USA) (Beta 2).gba" size="8388608" crc="4783C8EB" />
 	</game>
 	<game name="Dragon Drive - World D Break (Japan)" cnname="驭龙少年 - 世界破灭">
 		<rom name="Dragon Drive - World D Break (Japan).gba" size="8388608" crc="E5A571AD" serial="A5GJ" />
@@ -2779,9 +2611,6 @@
 	<game name="Drake &amp; Josh (USA) (En,Fr)" cnname="德雷克和约什">
 		<rom name="Drake &amp; Josh (USA) (En,Fr).gba" size="4194304" crc="63A4422E" serial="AJYE" />
 	</game>
-	<game name="Drake &amp; Josh (USA) (En,Fr) (Beta)">
-		<rom name="Drake &amp; Josh (USA) (En,Fr) (Beta) (2007-01-23).gba" size="4175464" crc="E91E21F8" serial="BQ7E" />
-	</game>
 	<game name="Drawing a Leviathan (World)">
 		<rom name="Drawing a Leviathan (World) (Aftermarket) (Unl).gba" size="9437768" crc="1EB0F64D" />
 	</game>
@@ -2791,14 +2620,8 @@
 	<game name="Drill Dozer (USA)" cnname="螺旋破坏者 - 轰振钻子">
 		<rom name="Drill Dozer (USA).gba" size="8388608" crc="E60EC183" serial="V49E" />
 	</game>
-	<game name="Driv3r (Europe) (Beta 3)" cnname="极道车魂 3">
-		<rom name="Driv3r (Europe) (Beta 3).gba" size="8388608" crc="3399D79D" />
-	</game>
 	<game name="Driv3r (Europe) (En,Fr,De,Es,It)" cnname="极道车魂 3">
 		<rom name="Driv3r (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="B617B354" serial="B3RP" />
-	</game>
-	<game name="Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2)">
-		<rom name="Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="8388608" crc="58E1F5A6" />
 	</game>
 	<game name="Driv3r (USA)" cnname="极道车魂 3">
 		<rom name="Driv3r (USA).gba" size="8388608" crc="6C66CFBE" serial="B3RE" />
@@ -2812,12 +2635,6 @@
 	<game name="Driver 2 Advance (Europe) (En,Fr,De,Es,It)" cnname="生死时速车 2A">
 		<rom name="Driver 2 Advance (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="69EE551C" serial="ADUP" />
 	</game>
-	<game name="Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 1)">
-		<rom name="Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 1).gba" size="8388608" crc="2A18850C" />
-	</game>
-	<game name="Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 2)">
-		<rom name="Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="8388608" crc="B24FA448" serial="ADUP" />
-	</game>
 	<game name="Driver 2 Advance (USA)" cnname="生死时速车 2A">
 		<rom name="Driver 2 Advance (USA).gba" size="8388608" crc="BBE2A163" serial="ADUE" />
 	</game>
@@ -2829,9 +2646,6 @@
 	</game>
 	<game name="Droopy&#x27;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl)" cnname="杜皮狗之网球公开赛">
 		<rom name="Droopy&#x27;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="F14B65EF" serial="AD7P" />
-	</game>
-	<game name="Droopy&#x27;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="杜皮狗之网球公开赛">
-		<rom name="Droopy&#x27;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="4194304" crc="484E7D56" serial="AD7P" />
 	</game>
 	<game name="Dual Blades (Japan)" cnname="双刃">
 		<rom name="Dual Blades (Japan).gba" size="4194304" crc="522F1F51" serial="AB9J" />
@@ -2845,17 +2659,11 @@
 	<game name="Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It)" cnname="卡片决斗高手 - 最后的王牌">
 		<rom name="Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="52E0AA95" serial="BD6P" />
 	</game>
-	<game name="Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It) (Beta)" cnname="卡片决斗高手 - 最后的王牌">
-		<rom name="Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It) (Beta).gba" size="16777216" crc="84C579DD" />
-	</game>
 	<game name="Duel Masters - Kaijudo Showdown (USA)" cnname="卡片决斗高手 - 最后的王牌">
 		<rom name="Duel Masters - Kaijudo Showdown (USA).gba" size="8388608" crc="804E5DE2" serial="BD6E" />
 	</game>
 	<game name="Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It)" cnname="卡片决斗高手 - 永恒的传说">
 		<rom name="Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="2FFF9BA9" serial="AA9P" />
-	</game>
-	<game name="Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta)" cnname="卡片决斗高手 - 永恒的传说">
-		<rom name="Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="AFCB61C9" />
 	</game>
 	<game name="Duel Masters - Sempai Legends (USA)" cnname="卡片决斗高手 - 永恒的传说">
 		<rom name="Duel Masters - Sempai Legends (USA).gba" size="8388608" crc="1CE344CA" serial="AA9E" />
@@ -2895,9 +2703,6 @@
 	</game>
 	<game name="Dungeons &amp; Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It)" cnname="龙与地下城 - 魔眼杀机">
 		<rom name="Dungeons &amp; Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="26351555" serial="AD4P" />
-	</game>
-	<game name="Dungeons &amp; Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It) (Beta)" cnname="龙与地下城 - 魔眼杀机">
-		<rom name="Dungeons &amp; Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It) (Beta).gba" size="4194304" crc="60C38E52" />
 	</game>
 	<game name="Dungeons &amp; Dragons - Eye of the Beholder (USA)" cnname="龙与地下城 - 魔眼杀机">
 		<rom name="Dungeons &amp; Dragons - Eye of the Beholder (USA).gba" size="4194304" crc="91B16892" serial="AD4E" />
@@ -3019,9 +2824,6 @@
 	<game name="Eggo Mania (Europe) (En,Fr,De,Es,It,Nl)" cnname="战斗蛋方块">
 		<rom name="Eggo Mania (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="0B2961CE" serial="AEMP" />
 	</game>
-	<game name="Eggo Mania (Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="战斗蛋方块">
-		<rom name="Eggo Mania (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="4194304" crc="F4C9A628" serial="AEMP" />
-	</game>
 	<game name="Elemix! (Japan)" cnname="元素大战！">
 		<rom name="Elemix! (Japan).gba" size="4194304" crc="FA28BED8" serial="AEKJ" />
 	</game>
@@ -3042,9 +2844,6 @@
 	</game>
 	<game name="Elite - The New Kind (World) (v1.7.1)">
 		<rom name="Elite - The New Kind (World) (v1.7.1) (Unl).gba" size="546392" crc="5F9B4211" />
-	</game>
-	<game name="Elite AGB (World) (Beta)">
-		<rom name="Elite AGB (World) (Beta) (Aftermarket) (Unl).gba" size="327360" crc="F00C939F" />
 	</game>
 	<game name="Elite AGB (World) (v1.4.1)">
 		<rom name="Elite AGB (World) (v1.4.1) (Aftermarket) (Unl).gba" size="960088" crc="28985872" />
@@ -3192,9 +2991,6 @@
 	</game>
 	<game name="FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl)" cnname="FIFA足球 2005">
 		<rom name="FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="DA90F396" serial="BF5E" />
-	</game>
-	<game name="FILA Decathlon (Europe) (Beta)" cnname="十项全能">
-		<rom name="FILA Decathlon (Europe) (Beta).gba" size="4194304" crc="07434E3A" />
 	</game>
 	<game name="FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv)" cnname="十项全能">
 		<rom name="FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv).gba" size="4194304" crc="628355B5" serial="AFLP" />
@@ -3469,9 +3265,6 @@
 	<game name="Findet Nemo (Germany)" cnname="海底总动员">
 		<rom name="Findet Nemo (Germany).gba" size="8388608" crc="6B6B0908" serial="AZID" />
 	</game>
-	<game name="Findet Nemo (Germany) (Beta)" cnname="海底总动员">
-		<rom name="Findet Nemo (Germany) (Beta).gba" size="8388608" crc="92197FBB" serial="AZID" />
-	</game>
 	<game name="Finding Nemo (Europe) (Es,It)" cnname="海底总动员">
 		<rom name="Finding Nemo (Europe) (Es,It).gba" size="8388608" crc="3E6F4F03" serial="AZIY" />
 	</game>
@@ -3523,20 +3316,11 @@
 	<game name="Fire Emblem - Rekka no Ken (Japan)" cnname="火焰纹章 - 烈火之剑">
 		<rom name="Fire Emblem - Rekka no Ken (Japan).gba" size="16777216" crc="F0C10E72" serial="AE7J" />
 	</game>
-	<game name="Fire Emblem - Rekka no Ken (Japan) (Beta 1)">
-		<rom name="Fire Emblem - Rekka no Ken (Japan) (Beta 1).gba" size="16777216" crc="B40D6854" serial="AFEJ" />
-	</game>
-	<game name="Fire Emblem - Rekka no Ken (Japan) (Beta 2)">
-		<rom name="Fire Emblem - Rekka no Ken (Japan) (Beta 2).gba" size="16777216" crc="8146A270" serial="AFEJ" />
-	</game>
 	<game name="Fire Emblem - Rekka no Ken (Japan) (Virtual Console)" cnname="火焰纹章 - 烈火之剑">
 		<rom name="Fire Emblem - Rekka no Ken (Japan) (Virtual Console).gba" size="16777216" crc="0BA2FD1F" serial="AE7J" />
 	</game>
 	<game name="Fire Emblem - Seima no Kouseki (Japan)" cnname="火焰纹章 - 圣魔之光石">
 		<rom name="Fire Emblem - Seima no Kouseki (Japan).gba" size="16777216" crc="9D76826F" serial="BE8J" />
-	</game>
-	<game name="Fire Emblem - Seima no Kouseki (Japan) (Beta)" cnname="火焰纹章 - 圣魔之光石">
-		<rom name="Fire Emblem - Seima no Kouseki (Japan) (Beta).gba" size="16777216" crc="CD9D8972" serial="AE7J" />
 	</game>
 	<game name="Fire Emblem - Seima no Kouseki (Japan) (Virtual Console)" cnname="火焰纹章 - 圣魔之光石">
 		<rom name="Fire Emblem - Seima no Kouseki (Japan) (Virtual Console).gba" size="16777216" crc="D2B431F8" serial="BE8J" />
@@ -3625,14 +3409,11 @@
 	<game name="Franklin&#x27;s Great Adventures (USA) (En,Fr,Es)" cnname="弗兰克林大冒险">
 		<rom name="Franklin&#x27;s Great Adventures (USA) (En,Fr,Es).gba" size="4194304" crc="7FBF8E98" serial="BFLE" />
 	</game>
-	<game name="Franko 2 - No Mercy (World) (Proto)">
-		<rom name="Franko 2 - No Mercy (World) (Proto).gba" size="553380" crc="685524D6" />
+	<game name="Franko 2 - No Mercy (Europe) (Proto)">
+		<rom name="Franko 2 - No Mercy (Europe) (Proto).gba" size="553380" crc="685524D6" />
 	</game>
 	<game name="Freekstyle (Europe) (En,Fr,De,Es,It)" cnname="疯狂越野摩托">
 		<rom name="Freekstyle (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="96871A23" serial="BFSP" />
-	</game>
-	<game name="Freekstyle (Europe) (En,Fr,De,Es,It) (Beta)" cnname="疯狂越野摩托">
-		<rom name="Freekstyle (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="211DFD7F" serial="AGBJ" />
 	</game>
 	<game name="Freekstyle (USA)" cnname="疯狂越野摩托">
 		<rom name="Freekstyle (USA).gba" size="8388608" crc="72434345" serial="BFSE" />
@@ -3669,9 +3450,6 @@
 	</game>
 	<game name="From TV Animation One Piece - Mezase! King of Berry (Japan)" cnname="海贼王 - 目标！赏金之王">
 		<rom name="From TV Animation One Piece - Mezase! King of Berry (Japan).gba" size="8388608" crc="E6F5BDD5" serial="AUSJ" />
-	</game>
-	<game name="From TV Animation One Piece - Mezase! King of Berry (Japan) (Beta)" cnname="海贼王 - 目标！赏金之王">
-		<rom name="From TV Animation One Piece - Mezase! King of Berry (Japan) (Beta).gba" size="8388608" crc="4E63DCE0" />
 	</game>
 	<game name="From TV Animation One Piece - Nanatsu-jima no Daihihou (Japan)" cnname="海贼王 - 七个岛的大秘宝">
 		<rom name="From TV Animation One Piece - Nanatsu-jima no Daihihou (Japan).gba" size="8388608" crc="FD4CE9C8" serial="AO7J" />
@@ -3763,12 +3541,6 @@
 	<game name="GT Championship (Europe)" cnname="GT锦标赛车">
 		<rom name="GT Championship (Europe).gba" size="4194304" crc="E92EC7AA" serial="ATCX" />
 	</game>
-	<game name="GT Racers (Europe) (Beta 1)">
-		<rom name="GT Racers (Europe) (Beta 1).gba" size="362512" crc="E027657A" serial="AGBJ" />
-	</game>
-	<game name="GT Racers (Europe) (Beta 2)">
-		<rom name="GT Racers (Europe) (Beta 2).gba" size="2619992" crc="A0F745A0" serial="AGBJ" />
-	</game>
 	<game name="GT Racers (Europe) (En,Fr,De,Es,It)" cnname="GT赛车手">
 		<rom name="GT Racers (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="94484F17" serial="BJAP" />
 	</game>
@@ -3845,10 +3617,10 @@
 		<rom name="Game Boy Wars Advance 1+2 (Japan) (Virtual Console).gba" size="16777216" crc="F8D3B3C6" serial="BGWJ" />
 	</game>
 	<game name="GameShark GBA (USA)">
-		<rom name="GameShark GBA (USA) (Unl).gba" size="262144" crc="D71DBCA6" />
-	</game>
-	<game name="GameShark GBA (USA) (Alt)">
 		<rom name="GameShark GBA (USA) (Unl) (Alt).gba" size="262144" crc="9AD94C62" />
+	</game>
+	<game name="GameShark GBA (USA)">
+		<rom name="GameShark GBA (USA) (Unl).gba" size="262144" crc="D71DBCA6" />
 	</game>
 	<game name="Games Explosion! (USA)" cnname="游戏爆发！">
 		<rom name="Games Explosion! (USA).gba" size="4194304" crc="68D63D5F" serial="BG7E" />
@@ -4081,9 +3853,6 @@
 	<game name="Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt)" cnname="魔怪小精灵">
 		<rom name="Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt).gba" size="4194304" crc="B6225186" serial="AGGP" />
 	</game>
-	<game name="Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt) (Beta)" cnname="魔怪小精灵">
-		<rom name="Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt) (Beta).gba" size="4194304" crc="68AE6BBB" serial="AGGP" />
-	</game>
 	<game name="Gremlins - Stripe vs Gizmo (USA)" cnname="魔怪小精灵">
 		<rom name="Gremlins - Stripe vs Gizmo (USA).gba" size="4194304" crc="5E72899A" serial="AGGE" />
 	</game>
@@ -4092,9 +3861,6 @@
 	</game>
 	<game name="Grim Adventures of Billy &amp; Mandy, The (USA)" cnname="比利和曼迪的过关大冒险">
 		<rom name="Grim Adventures of Billy &amp; Mandy, The (USA).gba" size="8388608" crc="155587BC" serial="BIEE" />
-	</game>
-	<game name="Grim Adventures of Billy &amp; Mandy, The (USA) (Beta)">
-		<rom name="Grim Adventures of Billy &amp; Mandy, The (USA) (Beta) (2006-08-15).gba" size="8388608" crc="67A51C79" serial="AGBJ" />
 	</game>
 	<game name="Groove Adventure Rave - Hikari to Yami no Daikessen (Japan)" cnname="圣石小子 - 光与暗的大决战">
 		<rom name="Groove Adventure Rave - Hikari to Yami no Daikessen (Japan).gba" size="8388608" crc="E7421B14" serial="ARVJ" />
@@ -4110,9 +3876,6 @@
 	</game>
 	<game name="Guilty Gear X - Advance Edition (Japan)" cnname="罪恶克星 X - 进阶版">
 		<rom name="Guilty Gear X - Advance Edition (Japan).gba" size="8388608" crc="160903EE" serial="AGXJ" />
-	</game>
-	<game name="Guilty Gear X - Advance Edition (Japan) (Beta)" cnname="罪恶克星 X - 进阶版">
-		<rom name="Guilty Gear X - Advance Edition (Japan) (Beta).gba" size="8388608" crc="4506ADA8" />
 	</game>
 	<game name="Guilty Gear X - Advance Edition (USA)" cnname="罪恶克星 X - 进阶版">
 		<rom name="Guilty Gear X - Advance Edition (USA).gba" size="8388608" crc="70DB3F96" serial="AGXE" />
@@ -4342,9 +4105,6 @@
 	<game name="Hero Core (World)">
 		<rom name="Hero Core (World) (Aftermarket) (Unl).gba" size="23642396" crc="A58BFA21" />
 	</game>
-	<game name="Hero Core (World) (v0.1.2) (Beta) (GBA Jam 2022)">
-		<rom name="Hero Core (World) (v0.1.2) (Beta) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="22209300" crc="0A3FCAD6" />
-	</game>
 	<game name="Hex Advance (World) (Proto)">
 		<rom name="Hex Advance (World) (Proto) (Aftermarket) (Unl).gba" size="673964" crc="8DBE63B7" />
 	</game>
@@ -4356,9 +4116,6 @@
 	</game>
 	<game name="Hey Arnold! - The Movie (Europe) (En,Fr,De)" cnname="嘿阿诺德电影版">
 		<rom name="Hey Arnold! - The Movie (Europe) (En,Fr,De).gba" size="4194304" crc="2B666FED" serial="AAEP" />
-	</game>
-	<game name="Hey Arnold! - The Movie (Europe) (En,Fr,De) (Beta)" cnname="嘿阿诺德电影版">
-		<rom name="Hey Arnold! - The Movie (Europe) (En,Fr,De) (Beta).gba" size="4194304" crc="9E4773BA" serial="AAEE" />
 	</game>
 	<game name="Hey Arnold! - The Movie (USA)" cnname="嘿阿诺德电影版">
 		<rom name="Hey Arnold! - The Movie (USA).gba" size="4194304" crc="59DFAB9E" serial="AAEE" />
@@ -4389,9 +4146,6 @@
 	</game>
 	<game name="High School Musical - Livin&#x27; the Dream (USA)" cnname="歌舞青春">
 		<rom name="High School Musical - Livin&#x27; the Dream (USA).gba" size="16777216" crc="7B31D4DA" serial="BJ2E" />
-	</game>
-	<game name="High School Musical - Livin&#x27; the Dream (USA) (Beta)" cnname="歌舞青春">
-		<rom name="High School Musical - Livin&#x27; the Dream (USA) (Beta).gba" size="16777216" crc="C340D5F7" serial="BJ2E" />
 	</game>
 	<game name="Hikaru no Go (Japan)" cnname="棋魂">
 		<rom name="Hikaru no Go (Japan).gba" size="8388608" crc="5A6C7537" serial="AHKJ" />
@@ -4648,9 +4402,6 @@
 	<game name="Iridion II (USA)" cnname="伊登战机 II">
 		<rom name="Iridion II (USA).gba" size="8388608" crc="DD8A7104" serial="AI2E" />
 	</game>
-	<game name="Iridion II (USA) (Beta)" cnname="伊登战机 II">
-		<rom name="Iridion II (USA) (Beta).gba" size="8388608" crc="9C63D17C" serial="1234" />
-	</game>
 	<game name="Iridion II (World)">
 		<rom name="Iridion II (World) (Aftermarket) (Unl).gba" size="8388608" crc="B371F070" serial="AI2E" />
 	</game>
@@ -4792,17 +4543,11 @@
 	<game name="Justice League - Chronicles (USA)" cnname="正义联盟历代记">
 		<rom name="Justice League - Chronicles (USA).gba" size="8388608" crc="07090F67" serial="BJLE" />
 	</game>
-	<game name="Justice League - Chronicles (USA) (Beta)">
-		<rom name="Justice League - Chronicles (USA) (Beta).gba" size="3768320" crc="FDBD4BD0" serial="AGBJ" />
-	</game>
 	<game name="Justice League - Injustice for All (Europe) (En,Fr,De,Es,It)" cnname="超人正义联盟">
 		<rom name="Justice League - Injustice for All (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="D71C4382" serial="AJLP" />
 	</game>
 	<game name="Justice League - Injustice for All (USA)" cnname="超人正义联盟">
 		<rom name="Justice League - Injustice for All (USA).gba" size="8388608" crc="B2477B72" serial="AJLE" />
-	</game>
-	<game name="Justice League - Injustice for All (USA) (Beta)" cnname="超人正义联盟">
-		<rom name="Justice League - Injustice for All (USA) (Beta).gba" size="8388608" crc="C41081CF" serial="AJLE" />
 	</game>
 	<game name="Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It)" cnname="正义联盟英雄 - 闪光">
 		<rom name="Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="ACB22FFF" serial="BJHP" />
@@ -4888,15 +4633,6 @@
 	<game name="Kid Paddle (Europe) (Fr,Nl)" cnname="船桨男孩">
 		<rom name="Kid Paddle (Europe) (Fr,Nl).gba" size="8388608" crc="69951AA9" serial="BYLP" />
 	</game>
-	<game name="Kid Paddle (Europe) (Fr,Nl) (Beta 1)">
-		<rom name="Kid Paddle (Europe) (Fr,Nl) (Beta 1).gba" size="8388608" crc="46648F66" />
-	</game>
-	<game name="Kid Paddle (Europe) (Fr,Nl) (Beta 2)">
-		<rom name="Kid Paddle (Europe) (Fr,Nl) (Beta 2).gba" size="8388608" crc="44AAD1CB" />
-	</game>
-	<game name="Kid Paddle (Europe) (Fr,Nl) (Beta 3)" cnname="船桨男孩">
-		<rom name="Kid Paddle (Europe) (Fr,Nl) (Beta 3).gba" size="8388608" crc="5AB5A26A" />
-	</game>
 	<game name="Kid&#x27;s Cards (USA)" cnname="儿童扑克">
 		<rom name="Kid&#x27;s Cards (USA).gba" size="4194304" crc="6F931445" serial="BCXE" />
 	</game>
@@ -4972,17 +4708,11 @@
 	<game name="King of Fighters EX 2, The - Howling Blood (USA)" cnname="拳皇 EX 2 - 咆哮之血">
 		<rom name="King of Fighters EX 2, The - Howling Blood (USA).gba" size="8388608" crc="15F8F9D5" serial="AEXE" />
 	</game>
-	<game name="King of Fighters EX 2, The - Howling Blood (USA) (Beta)">
-		<rom name="King of Fighters EX 2, The - Howling Blood (USA) (Beta).gba" size="8388608" crc="7704FF39" serial="AEXE" />
-	</game>
 	<game name="King of Fighters EX, The - NeoBlood (Europe)" cnname="拳皇 EX - 新血">
 		<rom name="King of Fighters EX, The - NeoBlood (Europe).gba" size="8388608" crc="17E66B52" serial="AKOP" />
 	</game>
 	<game name="King of Fighters EX, The - NeoBlood (Japan)" cnname="拳皇 EX - 新血">
 		<rom name="King of Fighters EX, The - NeoBlood (Japan).gba" size="8388608" crc="0814C78D" serial="AKOJ" />
-	</game>
-	<game name="King of Fighters EX, The - NeoBlood (Japan) (Beta)" cnname="拳皇 EX - 新血">
-		<rom name="King of Fighters EX, The - NeoBlood (Japan) (Beta).gba" size="8388608" crc="811FFCFA" />
 	</game>
 	<game name="King of Fighters EX, The - NeoBlood (USA)" cnname="拳皇 EX - 新血">
 		<rom name="King of Fighters EX, The - NeoBlood (USA).gba" size="8388608" crc="2B92EB8E" serial="AKOE" />
@@ -5098,9 +4828,6 @@
 	<game name="Konami Krazy Racers (USA)" cnname="科纳米疯狂赛车手">
 		<rom name="Konami Krazy Racers (USA).gba" size="4194304" crc="C80D4F5C" serial="AKWE" />
 	</game>
-	<game name="Konami Krazy Racers (USA) (Beta)" cnname="科纳米疯狂赛车手">
-		<rom name="Konami Krazy Racers (USA) (Beta).gba" size="4194304" crc="5F2AE8FE" serial="AKWE" />
-	</game>
 	<game name="Konami Krazy Racers (USA) (Virtual Console)" cnname="科纳米疯狂赛车手">
 		<rom name="Konami Krazy Racers (USA) (Virtual Console).gba" size="4194304" crc="95CCC956" serial="AKWE" />
 	</game>
@@ -5211,9 +4938,6 @@
 	</game>
 	<game name="LEGO Island 2 - The Brickster&#x27;s Revenge (USA) (En,Fr)" cnname="乐高积木岛 2 - 方块人的复仇">
 		<rom name="LEGO Island 2 - The Brickster&#x27;s Revenge (USA) (En,Fr).gba" size="8388608" crc="3F513CBF" serial="AL2E" />
-	</game>
-	<game name="LEGO Racers 2 (Europe) (Beta)" cnname="乐高赛车手 2">
-		<rom name="LEGO Racers 2 (Europe) (Beta).gba" size="8388608" crc="7D05AE2C" />
 	</game>
 	<game name="LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" cnname="乐高赛车手 2">
 		<rom name="LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="7A1DC458" serial="ALRP" />
@@ -5557,9 +5281,6 @@
 	<game name="Magi Nation (Japan)" cnname="指轮传奇">
 		<rom name="Magi Nation (Japan).gba" size="8388608" crc="6A94531B" serial="A2IJ" />
 	</game>
-	<game name="Magic &amp; Legend - Time Knights (World) (Beta)">
-		<rom name="Magic &amp; Legend - Time Knights (World) (Beta) (Aftermarket) (Unl).gba" size="533996" crc="17AF9E42" />
-	</game>
 	<game name="Magical Houshin (Japan)" cnname="魔法封神">
 		<rom name="Magical Houshin (Japan).gba" size="8388608" crc="70123550" serial="AJOJ" />
 	</game>
@@ -5637,9 +5358,6 @@
 	</game>
 	<game name="Maniac Racers Advance (Europe) (En,Fr,De,Es,It)" cnname="疯狂越野摩托车">
 		<rom name="Maniac Racers Advance (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="2412C5EB" serial="AMRP" />
-	</game>
-	<game name="Manic Miner (Europe) (Beta)" cnname="疯狂矿工">
-		<rom name="Manic Miner (Europe) (Beta).gba" size="7562196" crc="FB3D52BD" />
 	</game>
 	<game name="Manic Miner (Europe) (En,Fr,De,Es,It)" cnname="疯狂矿工">
 		<rom name="Manic Miner (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="138439F4" serial="A4MP" />
@@ -5817,9 +5535,6 @@
 	</game>
 	<game name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan)" cnname="魔法侦探传奇 - 幻想之魔境">
 		<rom name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan).gba" size="8388608" crc="4EBDAD86" serial="BMRJ" />
-	</game>
-	<game name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Beta) (Debug)">
-		<rom name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Beta) (Debug).gba" size="4194304" crc="225E2FB3" serial="A63J" />
 	</game>
 	<game name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Rev 1)" cnname="魔法侦探传奇 - 幻想之魔境">
 		<rom name="Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Rev 1).gba" size="8388608" crc="D647AB18" serial="BMRJ" />
@@ -6000,9 +5715,6 @@
 	</game>
 	<game name="Mega Man - Battle Network 2 (USA)">
 		<rom name="Mega Man - Battle Network 2 (USA).gba" size="8388608" crc="6D961F82" serial="AE2E" />
-	</game>
-	<game name="Mega Man - Battle Network 2 (USA) (Beta) (Debug)">
-		<rom name="Mega Man - Battle Network 2 (USA) (Beta) (Debug).gba" size="8388608" crc="C3AABD70" serial="AE2E" />
 	</game>
 	<game name="Mega Man - Battle Network 2 (USA, Europe) (Virtual Console)">
 		<rom name="Mega Man - Battle Network 2 (USA, Europe) (Virtual Console).gba" size="8388608" crc="5E88C34B" serial="AE2E" />
@@ -6202,9 +5914,6 @@
 	<game name="Metal Slug Advance (Japan)" cnname="合金弹头 A">
 		<rom name="Metal Slug Advance (Japan).gba" size="8388608" crc="0CABA589" serial="BSMJ" />
 	</game>
-	<game name="Metal Slug Advance (Japan) (Beta)" cnname="合金弹头 A">
-		<rom name="Metal Slug Advance (Japan) (Beta).gba" size="8388608" crc="3F746AC1" />
-	</game>
 	<game name="Metal Slug Advance (USA)" cnname="合金弹头 A">
 		<rom name="Metal Slug Advance (USA).gba" size="8388608" crc="09980880" serial="BSME" />
 	</game>
@@ -6220,9 +5929,6 @@
 	<game name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)" cnname="银河战士 - 零点任务">
 		<rom name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="F1D92E63" serial="BMXP" />
 	</game>
-	<game name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Beta)" cnname="银河战士 - 零点任务">
-		<rom name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Beta).gba" size="16777216" crc="B6438226" serial="BMXP" />
-	</game>
 	<game name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)" cnname="银河战士 - 零点任务">
 		<rom name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="8388608" crc="3AB66D36" serial="BMXP" />
 	</game>
@@ -6232,9 +5938,6 @@
 	<game name="Metroid - Zero Mission (Japan) (Virtual Console)" cnname="银河战士 - 零点任务">
 		<rom name="Metroid - Zero Mission (Japan) (Virtual Console).gba" size="8388608" crc="220B68F5" serial="BMXJ" />
 	</game>
-	<game name="Metroid - Zero Mission (USA) (Beta)" cnname="银河战士 - 零点任务">
-		<rom name="Metroid - Zero Mission (USA) (Beta).gba" size="16777216" crc="922C4A10" serial="BMXE" />
-	</game>
 	<game name="Metroid - Zero Mission (USA) (Virtual Console)" cnname="银河战士 - 零点任务">
 		<rom name="Metroid - Zero Mission (USA) (Virtual Console).gba" size="8388608" crc="8825294A" serial="BMXE" />
 	</game>
@@ -6243,12 +5946,6 @@
 	</game>
 	<game name="Metroid Fusion (Europe) (En,Fr,De,Es,It)" cnname="银河战士 - 融合">
 		<rom name="Metroid Fusion (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="974E46AB" serial="AMTP" />
-	</game>
-	<game name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 1)">
-		<rom name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 1).gba" size="16777216" crc="3ACBD239" serial="METJ" />
-	</game>
-	<game name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 2)">
-		<rom name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="8388608" crc="1605E4F7" serial="METJ" />
 	</game>
 	<game name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)" cnname="银河战士 - 融合">
 		<rom name="Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="8388608" crc="EEE01B78" serial="AMTP" />
@@ -6511,9 +6208,6 @@
 	<game name="Mooncat&#x27;s Trio (World)">
 		<rom name="Mooncat&#x27;s Trio (World) (Aftermarket) (Unl).gba" size="1175680" crc="B05D5339" serial="MCAT" />
 	</game>
-	<game name="Mooncat&#x27;s Trio (World) (Beta)">
-		<rom name="Mooncat&#x27;s Trio (World) (Beta) (Aftermarket) (Unl).gba" size="504220" crc="CD3328EE" />
-	</game>
 	<game name="Mooncat&#x27;s Trio (World) (v1.1)">
 		<rom name="Mooncat&#x27;s Trio (World) (v1.1) (Aftermarket) (Unl).gba" size="1123908" crc="8C9A56C4" />
 	</game>
@@ -6561,9 +6255,6 @@
 	</game>
 	<game name="Moto Racer Advance (USA) (En,Fr,De,Es,It)" cnname="越野摩托车 A">
 		<rom name="Moto Racer Advance (USA) (En,Fr,De,Es,It).gba" size="4194304" crc="2FDBE7A8" serial="A9ME" />
-	</game>
-	<game name="MotoGP (Europe) (Beta)" cnname="GP摩托车赛">
-		<rom name="MotoGP (Europe) (Beta).gba" size="4194304" crc="508BF8DC" />
 	</game>
 	<game name="MotoGP (Europe) (En,Fr,De,Es,It)" cnname="GP摩托车赛">
 		<rom name="MotoGP (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="C6D17D0D" serial="AM4P" />
@@ -6814,9 +6505,6 @@
 	<game name="Nicktoons Racing (USA)" cnname="尼克卡通赛车">
 		<rom name="Nicktoons Racing (USA).gba" size="4194304" crc="50AB9BB6" serial="ANQE" />
 	</game>
-	<game name="Nicktoons Racing (USA) (Beta)" cnname="尼克卡通赛车">
-		<rom name="Nicktoons Racing (USA) (Beta).gba" size="4194304" crc="4ED6E860" serial="ANQP" />
-	</game>
 	<game name="Nicktoons Unite! (USA)" cnname="尼克通海绵宝宝！">
 		<rom name="Nicktoons Unite! (USA).gba" size="4194304" crc="75C35F7C" serial="BNUE" />
 	</game>
@@ -6943,9 +6631,6 @@
 	<game name="Oshaberi Inko Club (Japan)" cnname="鹦鹉俱乐部">
 		<rom name="Oshaberi Inko Club (Japan).gba" size="8388608" crc="DF6901F0" serial="AICJ" />
 	</game>
-	<game name="Oshaberi Inko Club (Japan) (Beta)" cnname="鹦鹉俱乐部">
-		<rom name="Oshaberi Inko Club (Japan) (Beta).gba" size="8388608" crc="F896BB9E" serial="AICJ" />
-	</game>
 	<game name="Oshare Princess (Japan)" cnname="奥沙尔公主">
 		<rom name="Oshare Princess (Japan).gba" size="4194304" crc="5A2299E1" serial="AOPJ" />
 	</game>
@@ -7038,9 +6723,6 @@
 	</game>
 	<game name="Pac-Man World 2 (USA)" cnname="吃豆小精灵世界 2">
 		<rom name="Pac-Man World 2 (USA).gba" size="4194304" crc="814A7D33" serial="B2CE" />
-	</game>
-	<game name="Pac-Man World 2 (USA) (Beta)">
-		<rom name="Pac-Man World 2 (USA) (Beta).gba" size="4194304" crc="B645B5EF" serial="AGBJ" />
 	</game>
 	<game name="Paws &amp; Claws - Best Friends - Dogs &amp; Cats (USA)" cnname="猫猫狗狗 - 我们的朋友">
 		<rom name="Paws &amp; Claws - Best Friends - Dogs &amp; Cats (USA).gba" size="8388608" crc="6ECF40A0" serial="BHBE" />
@@ -7606,9 +7288,6 @@
 	<game name="Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl)" cnname="摩登原始人">
 		<rom name="Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="0D3B922B" serial="APHE" />
 	</game>
-	<game name="Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="摩登原始人">
-		<rom name="Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="4194304" crc="ABB50D93" serial="APHE" />
-	</game>
 	<game name="Premier Action Soccer (Europe) (En,Fr,De,Es,It)" cnname="足球经理">
 		<rom name="Premier Action Soccer (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="B5432FA4" serial="BAQP" />
 	</game>
@@ -7741,9 +7420,6 @@
 	<game name="Racing Gears Advance (USA)" cnname="高速改装赛车 A">
 		<rom name="Racing Gears Advance (USA).gba" size="8388608" crc="BF648E5C" serial="BRAE" />
 	</game>
-	<game name="Racing Gears Advance (USA) (Beta)" cnname="高速改装赛车 A">
-		<rom name="Racing Gears Advance (USA) (Beta).gba" size="8388608" crc="7A3820B3" />
-	</game>
 	<game name="Radicorn (World) (Proto)">
 		<rom name="Radicorn (World) (Proto) (Aftermarket) (Unl).gba" size="88704" crc="C176FC59" />
 	</game>
@@ -7792,20 +7468,11 @@
 	<game name="Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" cnname="雷曼 3">
 		<rom name="Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba" size="8388608" crc="29F83314" serial="AYZP" />
 	</game>
-	<game name="Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta)" cnname="雷曼 3">
-		<rom name="Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta).gba" size="8388608" crc="8F34B14F" serial="AYZP" />
-	</game>
-	<game name="Rayman 3 (USA) (Beta)" cnname="雷曼 3">
-		<rom name="Rayman 3 (USA) (Beta).gba" size="16777216" crc="C3ADBC41" serial="AYZE" />
-	</game>
 	<game name="Rayman 3 (USA) (En,Fr,Es)" cnname="雷曼 3">
 		<rom name="Rayman 3 (USA) (En,Fr,Es).gba" size="8388608" crc="D1613266" serial="AYZE" />
 	</game>
 	<game name="Rayman Advance (Europe) (En,Fr,De,Es,It)" cnname="雷曼 A">
 		<rom name="Rayman Advance (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="B43783B4" serial="ARYP" />
-	</game>
-	<game name="Rayman Advance (Europe) (En,Fr,De,Es,It) (Beta)" cnname="雷曼 A">
-		<rom name="Rayman Advance (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="4B1B4E02" serial="ARYP" />
 	</game>
 	<game name="Rayman Advance (USA) (En,Fr,De,Es,It)" cnname="雷曼 A">
 		<rom name="Rayman Advance (USA) (En,Fr,De,Es,It).gba" size="8388608" crc="8ABA5AB8" serial="ARYE" />
@@ -7840,9 +7507,6 @@
 	<game name="Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It)" cnname="叛星 - 战略指令">
 		<rom name="Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="E448C5D4" serial="BRLP" />
 	</game>
-	<game name="Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta)" cnname="叛星 - 战略指令">
-		<rom name="Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta).gba" size="4194304" crc="2189021C" />
-	</game>
 	<game name="Rebelstar - Tactical Command (USA)" cnname="叛星 - 战略指令">
 		<rom name="Rebelstar - Tactical Command (USA).gba" size="4194304" crc="FB6C590F" serial="BRLE" />
 	</game>
@@ -7867,17 +7531,14 @@
 	<game name="Resident Evil 2 (Unknown) (Proto)" cnname="生化危机 2">
 		<rom name="Resident Evil 2 (Unknown) (Proto).gba" size="2908576" crc="26B5CF8B" serial="0000" />
 	</game>
+	<game name="RetroKid (World)">
+		<rom name="RetroKid (World) (Aftermarket) (Unl).gba" size="524288" crc="D0AEA213" />
+	</game>
 	<game name="Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It)" cnname="忍者的复仇">
 		<rom name="Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="DDB4496A" serial="A3RP" />
 	</game>
-	<game name="Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It) (Beta)" cnname="忍者的复仇">
-		<rom name="Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="58A3F0E1" serial="A3RP" />
-	</game>
 	<game name="Revenge of Shinobi, The (USA)" cnname="忍者的复仇">
 		<rom name="Revenge of Shinobi, The (USA).gba" size="8388608" crc="E9339304" serial="A3RE" />
-	</game>
-	<game name="Revenge of the Smurfs, The (Europe) (Beta)">
-		<rom name="Revenge of the Smurfs, The (Europe) (Beta).gba" size="4194304" crc="A5EF2D7E" />
 	</game>
 	<game name="Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)" cnname="蓝精灵Smurfs的复仇">
 		<rom name="Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="516CE770" serial="A7SP" />
@@ -7948,9 +7609,6 @@
 	<game name="Robot Wars - Advanced Destruction (USA)" cnname="机器人大战 - 进化毁灭">
 		<rom name="Robot Wars - Advanced Destruction (USA).gba" size="4194304" crc="E6CB567D" serial="ARUE" />
 	</game>
-	<game name="Robot Wars - Advanced Destruction (USA) (Beta)">
-		<rom name="Robot Wars - Advanced Destruction (USA) (Beta).gba" size="585104" crc="CE95BBD6" />
-	</game>
 	<game name="Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl)" cnname="遥控机器人大战之无尽的毁灭">
 		<rom name="Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="5EE9D6C5" serial="ARSP" />
 	</game>
@@ -7980,9 +7638,6 @@
 	</game>
 	<game name="Rocket Power - Beach Bandits (USA, Europe)" cnname="急速动力 - 沙滩强盗">
 		<rom name="Rocket Power - Beach Bandits (USA, Europe).gba" size="4194304" crc="13695669" serial="AR4E" />
-	</game>
-	<game name="Rocket Power - Beach Bandits (USA, Europe) (Beta)">
-		<rom name="Rocket Power - Beach Bandits (USA, Europe) (Beta).gba" size="4101616" crc="D3755452" />
 	</game>
 	<game name="Rocket Power - Dream Scheme (USA, Europe)" cnname="急速动力 - 梦之计划">
 		<rom name="Rocket Power - Dream Scheme (USA, Europe).gba" size="4194304" crc="93961CB2" serial="ARKE" />
@@ -8107,18 +7762,6 @@
 	<game name="Rushed Hack Job, A (World) (GBA Jam 2022)">
 		<rom name="Rushed Hack Job, A (World) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="332724" crc="730A5DD6" />
 	</game>
-	<game name="S World 3 (World) (Beta 1)">
-		<rom name="S World 3 (World) (Beta 1) (Unl).gba" size="10144" crc="6B1A6173" />
-	</game>
-	<game name="S World 3 (World) (Beta 2)">
-		<rom name="S World 3 (World) (Beta 2) (Unl).gba" size="12844" crc="34AD13FE" />
-	</game>
-	<game name="S World 3 (World) (Beta 3)">
-		<rom name="S World 3 (World) (Beta 3) (Unl).gba" size="43296" crc="3BC15E46" />
-	</game>
-	<game name="S World 3 (World) (Beta 4)">
-		<rom name="S World 3 (World) (Beta 4) (Unl).gba" size="265800" crc="9D5E128C" />
-	</game>
 	<game name="SD Gundam Force (Japan) (En)" cnname="SD高达力量">
 		<rom name="SD Gundam Force (Japan) (En).gba" size="8388608" crc="83417478" serial="BG4J" />
 	</game>
@@ -8136,9 +7779,6 @@
 	</game>
 	<game name="SEGA Rally Championship (Europe)" cnname="世嘉拉力锦标赛车">
 		<rom name="SEGA Rally Championship (Europe).gba" size="8388608" crc="D125A6BB" serial="AYLP" />
-	</game>
-	<game name="SEGA Rally Championship (Europe) (Beta)" cnname="世嘉拉力锦标赛车">
-		<rom name="SEGA Rally Championship (Europe) (Beta).gba" size="8388608" crc="D9F19D76" />
 	</game>
 	<game name="SEGA Rally Championship (Japan) (En)" cnname="世嘉拉力锦标赛车">
 		<rom name="SEGA Rally Championship (Japan) (En).gba" size="8388608" crc="E57C16F7" serial="AYLJ" />
@@ -8220,9 +7860,6 @@
 	</game>
 	<game name="Santa Claus Jr. Advance (Europe)" cnname="圣诞老人 A">
 		<rom name="Santa Claus Jr. Advance (Europe).gba" size="4194304" crc="FE3E6769" serial="AXXP" />
-	</game>
-	<game name="Santa Claus Jr. Advance (Europe) (Beta)" cnname="圣诞老人 A">
-		<rom name="Santa Claus Jr. Advance (Europe) (Beta).gba" size="4194304" crc="38D896BD" serial="AXXP" />
 	</game>
 	<game name="Santa Claus Saves the Earth (Europe)" cnname="圣诞老人救地球">
 		<rom name="Santa Claus Saves the Earth (Europe).gba" size="4194304" crc="49E012A8" serial="AUZE" />
@@ -8442,9 +8079,6 @@
 	</game>
 	<game name="Shin Megami Tensei Devil Children - Yami no Sho (Japan)" cnname="真女神转生 - 暗之书">
 		<rom name="Shin Megami Tensei Devil Children - Yami no Sho (Japan).gba" size="8388608" crc="E0E153B7" serial="AC5J" />
-	</game>
-	<game name="Shin Megami Tensei Devil Children - Yami no Sho (Japan) (Beta)" cnname="真女神转生 - 暗之书">
-		<rom name="Shin Megami Tensei Devil Children - Yami no Sho (Japan) (Beta).gba" size="8388608" crc="81F30EBC" serial="AC5J" />
 	</game>
 	<game name="Shin Megami Tensei II (Japan)" cnname="真女神转生 2">
 		<rom name="Shin Megami Tensei II (Japan).gba" size="8388608" crc="AF40CC99" serial="A5TJ" />
@@ -8752,9 +8386,6 @@
 	<game name="Sonic Advance (USA) (En,Ja)" cnname="索尼克 A">
 		<rom name="Sonic Advance (USA) (En,Ja).gba" size="8388608" crc="63F70FD8" serial="ASOE" />
 	</game>
-	<game name="Sonic Advance (USA) (En,Ja) (Beta)">
-		<rom name="Sonic Advance (USA) (En,Ja) (Beta).gba" size="8388608" crc="A80DE3B2" />
-	</game>
 	<game name="Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It)" cnname="索尼克 A2">
 		<rom name="Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="89509891" serial="A2NP" />
 	</game>
@@ -8764,17 +8395,11 @@
 	<game name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)" cnname="索尼克 A2">
 		<rom name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="6C6C65A3" serial="A2NJ" />
 	</game>
-	<game name="Sonic Advance 2 (USA) (Beta)">
-		<rom name="Sonic Advance 2 (USA) (Beta).gba" size="16777216" crc="95AB3867" serial="A2NE" />
-	</game>
 	<game name="Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)" cnname="索尼克 A2">
 		<rom name="Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="7EFEE7F7" serial="A2NE" />
 	</game>
 	<game name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It)" cnname="索尼克 A3">
 		<rom name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="5BF83456" serial="B3SP" />
-	</game>
-	<game name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)" cnname="索尼克 A3">
-		<rom name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta).gba" size="16777216" crc="4C93DAC6" serial="B3SP" />
 	</game>
 	<game name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)" cnname="索尼克 A3">
 		<rom name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="4375F1D6" serial="B3SJ" />
@@ -8885,16 +8510,13 @@
 		<rom name="Spider-Man 3 (Spain).gba" size="8388608" crc="E6251FD3" serial="BI3S" />
 	</game>
 	<game name="Spider-Man 3 (USA)" cnname="蜘蛛侠 3">
-		<rom name="Spider-Man 3 (USA).gba" size="8388608" crc="AD0228A1" serial="BI3E" />
+		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3E1B693A" />
 	</game>
 	<game name="Spider-Man 3 (USA)" cnname="蜘蛛侠 3">
-		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3E1B693A" />
+		<rom name="Spider-Man 3 (USA).gba" size="8388608" crc="AD0228A1" serial="BI3E" />
 	</game>
 	<game name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany)" cnname="小马王">
 		<rom name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany).gba" size="4194304" crc="4785EEE0" serial="AC6D" />
-	</game>
-	<game name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta)" cnname="小马王">
-		<rom name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta).gba" size="4183576" crc="CAAAEFB6" />
 	</game>
 	<game name="Spirit - L&#x27;Etalon des Plaines - A la Recherche de la Terre Natale (France)" cnname="小马王">
 		<rom name="Spirit - L&#x27;Etalon des Plaines - A la Recherche de la Terre Natale (France).gba" size="4194304" crc="C8C76255" serial="AC6F" />
@@ -8926,80 +8548,17 @@
 	<game name="SpongeBob SquarePants - Lights, Camera, Pants! (USA)" cnname="海绵宝宝 - 灯光，照相，内裤！">
 		<rom name="SpongeBob SquarePants - Lights, Camera, Pants! (USA).gba" size="4194304" crc="23297579" serial="BQQE" />
 	</game>
-	<game name="SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 1)">
-		<rom name="SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 1).gba" size="4291500" crc="52FD3771" serial="BQQE" />
-	</game>
-	<game name="SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 2)">
-		<rom name="SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 2).gba" size="4519932" crc="E1461B58" serial="BQQE" />
-	</game>
-	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)" cnname="海绵宝宝 - 荷兰鬼魂的复仇">
-		<rom name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba" size="8166400" crc="4F21757D" />
-	</game>
 	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)" cnname="海绵宝宝 - 荷兰鬼魂的复仇">
 		<rom name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).gba" size="8388608" crc="30D6C979" serial="AQ3E" />
 	</game>
 	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe)" cnname="海绵宝宝 - 超级海绵">
 		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe).gba" size="4194304" crc="98AD67E6" serial="ASPE" />
 	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 1)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 1).gba" size="364500" crc="22F37CFD" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 10)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 10).gba" size="4268504" crc="FFEA9FEC" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 11)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 11).gba" size="4646712" crc="1407D86E" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 12)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 12).gba" size="5477108" crc="0BC6DFAF" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 13)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 13).gba" size="5477244" crc="23D7BA77" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 14)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 14).gba" size="2470464" crc="40CC2E8A" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 15)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 15).gba" size="3011936" crc="FF4F1EE7" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 16)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 16).gba" size="4194304" crc="F2F67F40" serial="SBSP" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 2)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 2).gba" size="315572" crc="49754EE4" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 3)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 3).gba" size="342160" crc="B83D7E0D" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 4)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 4).gba" size="5840568" crc="DFA0465F" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 5)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 5).gba" size="2094168" crc="9DD49688" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 6)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 6).gba" size="2142316" crc="78D0D354" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 7)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 7).gba" size="2132508" crc="D0FB4BD2" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 8)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 8).gba" size="2471940" crc="6B458C53" />
-	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 9)">
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 9).gba" size="2598340" crc="70456F6E" />
-	</game>
 	<game name="SpongeBob SquarePants Movie, The (Europe) (En,Fr,De,Es,It,Nl)" cnname="GBA电影 - 海绵宝宝电影版">
 		<rom name="SpongeBob SquarePants Movie, The (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="5D9D52DE" serial="BSNX" />
 	</game>
 	<game name="SpongeBob SquarePants Movie, The (USA)" cnname="GBA电影 - 海绵宝宝电影版">
 		<rom name="SpongeBob SquarePants Movie, The (USA).gba" size="8388608" crc="3622DA11" serial="BSNE" />
-	</game>
-	<game name="SpongeBob SquarePants Movie, The (USA) (Beta 1)" cnname="GBA电影 - 海绵宝宝电影版">
-		<rom name="SpongeBob SquarePants Movie, The (USA) (Beta 1).gba" size="6871418" crc="DF3D16A1" />
-	</game>
-	<game name="SpongeBob SquarePants Movie, The (USA) (Beta 2)" cnname="GBA电影 - 海绵宝宝电影版">
-		<rom name="SpongeBob SquarePants Movie, The (USA) (Beta 2).gba" size="8388608" crc="E1068687" serial="BSNE" />
 	</game>
 	<game name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)" cnname="海绵宝宝和朋友们 - 火山岛之战">
 		<rom name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="033229A7" serial="BNVP" />
@@ -9015,9 +8574,6 @@
 	</game>
 	<game name="SpongeBob&#x27;s Atlantis SquarePantis (USA)" cnname="海绵宝宝 - 亚特兰蒂斯">
 		<rom name="SpongeBob&#x27;s Atlantis SquarePantis (USA).gba" size="4194304" crc="190B1653" serial="BZXE" />
-	</game>
-	<game name="SpongeBob&#x27;s Atlantis SquarePantis (USA) (Beta)" cnname="海绵宝宝 - 亚特兰蒂斯">
-		<rom name="SpongeBob&#x27;s Atlantis SquarePantis (USA) (Beta).gba" size="4194304" crc="A39248A2" serial="BZXE" />
 	</game>
 	<game name="Sports Illustrated for Kids - Baseball (USA)" cnname="儿童运动画刊 - 棒球">
 		<rom name="Sports Illustrated for Kids - Baseball (USA).gba" size="4194304" crc="616088DF" serial="AKBE" />
@@ -9060,9 +8616,6 @@
 	</game>
 	<game name="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It)" cnname="小龙斯派罗 2 - 火焰的季节">
 		<rom name="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="104B4CAA" serial="A2SP" />
-	</game>
-	<game name="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It) (Beta)" cnname="小龙斯派罗 2 - 火焰的季节">
-		<rom name="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" crc="D05C86BB" />
 	</game>
 	<game name="Spyro 2 - Season of Flame (USA)" cnname="小龙斯派罗 2 - 火焰的季节">
 		<rom name="Spyro 2 - Season of Flame (USA).gba" size="8388608" crc="37E120E7" serial="A2SE" />
@@ -9127,9 +8680,6 @@
 	<game name="Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)" cnname="星球大战三部曲 - 学徒的原力">
 		<rom name="Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="C9F0C492" serial="BCKP" />
 	</game>
-	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta)" cnname="星球大战三部曲 - 学徒的原力">
-		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta).gba" size="8388608" crc="B5D61C72" />
-	</game>
 	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)" cnname="星球大战三部曲 - 学徒的原力">
 		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es).gba" size="8388608" crc="714A0D3A" serial="BCKE" />
 	</game>
@@ -9148,20 +8698,17 @@
 	<game name="Starsky &amp; Hutch (USA)" cnname="一路狂飙之极速双雄">
 		<rom name="Starsky &amp; Hutch (USA).gba" size="4194304" crc="B3993252" serial="AYHE" />
 	</game>
-	<game name="Starsky &amp; Hutch (USA) (Beta)">
-		<rom name="Starsky &amp; Hutch (USA) (Beta) (2003-02-11).gba" size="4231928" crc="AB142D2E" serial="AYHE" />
-	</game>
 	<game name="Steel Empire (Europe)" cnname="钢铁帝国">
 		<rom name="Steel Empire (Europe).gba" size="4194304" crc="CB91922E" serial="BKTP" />
 	</game>
 	<game name="Stepper (World) (v1.7)">
 		<rom name="Stepper (World) (v1.7) (Aftermarket) (Unl).gba" size="86964" crc="48FA3B75" />
 	</game>
-	<game name="Stepper (World) (v1.8) (3DS)">
-		<rom name="Stepper (World) (v1.8) (3DS) (Aftermarket) (Unl).gba" size="93080" crc="EA2BE132" />
-	</game>
 	<game name="Stepper (World) (v1.8)">
 		<rom name="Stepper (World) (v1.8) (Aftermarket) (Unl).gba" size="92616" crc="44E603A2" />
+	</game>
+	<game name="Stepper (World) (v1.8) (3DS)">
+		<rom name="Stepper (World) (v1.8) (3DS) (Aftermarket) (Unl).gba" size="93080" crc="EA2BE132" />
 	</game>
 	<game name="Stepper (World) (v1.9)">
 		<rom name="Stepper (World) (v1.9) (Aftermarket) (Unl).gba" size="94580" crc="0D5B3101" />
@@ -9282,9 +8829,6 @@
 	</game>
 	<game name="Super Dodge Ball Advance (USA)" cnname="超级躲避球 A">
 		<rom name="Super Dodge Ball Advance (USA).gba" size="4194304" crc="1D31DC6B" serial="ADFE" />
-	</game>
-	<game name="Super Dodge Ball Advance (USA) (Beta)" cnname="超级躲避球 A">
-		<rom name="Super Dodge Ball Advance (USA) (Beta).gba" size="4194304" crc="626603B5" serial="ADFE" />
 	</game>
 	<game name="Super Dodge Ball Advance (USA) (Rev 1)" cnname="超级躲避球 A">
 		<rom name="Super Dodge Ball Advance (USA) (Rev 1).gba" size="4194304" crc="63CA5050" serial="ADFE" />
@@ -9415,9 +8959,6 @@
 	<game name="Super Monkey Ball Jr. (USA)" cnname="超级猴子球">
 		<rom name="Super Monkey Ball Jr. (USA).gba" size="4194304" crc="0A8031F0" serial="ALUE" />
 	</game>
-	<game name="Super Monkey Ball Jr. (USA) (Beta)">
-		<rom name="Super Monkey Ball Jr. (USA) (Beta).gba" size="4194304" crc="0D72F2CC" />
-	</game>
 	<game name="Super Panda (USA)">
 		<rom name="Super Panda (USA) (Unl).gba" size="1048576" crc="2796F04D" />
 	</game>
@@ -9489,9 +9030,6 @@
 	</game>
 	<game name="Superman - Countdown to Apokolips (USA)" cnname="超人 - 回到地球">
 		<rom name="Superman - Countdown to Apokolips (USA).gba" size="8388608" crc="43017D47" serial="ASUE" />
-	</game>
-	<game name="Superman Returns - Fortress of Solitude (USA, Europe) (Beta)" cnname="超人归来">
-		<rom name="Superman Returns - Fortress of Solitude (USA, Europe) (Beta).gba" size="16777216" crc="A0FB8E93" />
 	</game>
 	<game name="Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)" cnname="超人归来">
 		<rom name="Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="68215047" serial="BQXE" />
@@ -9808,9 +9346,6 @@
 	<game name="Titeuf - Mega Compet (France)" cnname="坏小子 - 迪德夫">
 		<rom name="Titeuf - Mega Compet (France).gba" size="4194304" crc="FFD0A045" serial="BTCF" />
 	</game>
-	<game name="Titeuf - Mega Compet (France) (Beta)" cnname="坏小子 - 迪德夫">
-		<rom name="Titeuf - Mega Compet (France) (Beta).gba" size="4194304" crc="C9BE7FCF" />
-	</game>
 	<game name="Titeuf - Ze Gag Machine (France)" cnname="坏小子">
 		<rom name="Titeuf - Ze Gag Machine (France).gba" size="4194304" crc="47BC61B5" serial="AT7F" />
 	</game>
@@ -9847,14 +9382,8 @@
 	<game name="Tom Clancy&#x27;s Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It)" cnname="彩虹6号 - 雷霆战警">
 		<rom name="Tom Clancy&#x27;s Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).gba" size="8388608" crc="23575BF2" serial="AR6E" />
 	</game>
-	<game name="Tom Clancy&#x27;s Rainbow Six - Rogue Spear (USA, Europe) (En,Fr,De,Es,It) (Beta)">
-		<rom name="Tom Clancy&#x27;s Rainbow Six - Rogue Spear (USA, Europe) (En,Fr,De,Es,It) (Beta).gba" size="7963152" crc="666E31B5" />
-	</game>
 	<game name="Tom Clancy&#x27;s Splinter Cell (Europe) (En,Fr,De,Es,It,Nl)" cnname="分裂细胞">
 		<rom name="Tom Clancy&#x27;s Splinter Cell (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="7ECD29CE" serial="AO4P" />
-	</game>
-	<game name="Tom Clancy&#x27;s Splinter Cell (Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="分裂细胞">
-		<rom name="Tom Clancy&#x27;s Splinter Cell (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="16777216" crc="E07BA799" serial="A3BP" />
 	</game>
 	<game name="Tom Clancy&#x27;s Splinter Cell (USA) (En,Fr,Es)" cnname="分裂细胞">
 		<rom name="Tom Clancy&#x27;s Splinter Cell (USA) (En,Fr,Es).gba" size="8388608" crc="308BA69C" serial="AO4E" />
@@ -9988,17 +9517,11 @@
 	<game name="Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl)" cnname="间谍少女组 2">
 		<rom name="Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="CA245559" serial="B2LP" />
 	</game>
-	<game name="Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta)" cnname="间谍少女组 2">
-		<rom name="Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba" size="8388608" crc="5515C841" />
-	</game>
 	<game name="Totally Spies! 2 - Undercover (USA) (En,Fr)" cnname="间谍少女组 2">
 		<rom name="Totally Spies! 2 - Undercover (USA) (En,Fr).gba" size="8388608" crc="2C8EB8A1" serial="B2LE" />
 	</game>
 	<game name="Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan)" cnname="哈姆太郎 3 - 爱之冒险">
 		<rom name="Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan).gba" size="8388608" crc="C2945D42" serial="AH3J" />
-	</game>
-	<game name="Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan) (Beta)">
-		<rom name="Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan) (Beta).gba" size="8388608" crc="782E25AE" />
 	</game>
 	<game name="Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)" cnname="哈姆太郎 4 - 七彩虹大行进">
 		<rom name="Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan).gba" size="8388608" crc="1B6E5617" serial="A84J" />
@@ -10083,9 +9606,6 @@
 	</game>
 	<game name="Tsuukin Hitofude (Japan)" cnname="通勤一笔">
 		<rom name="Tsuukin Hitofude (Japan).gba" size="4194304" crc="5A7E762B" serial="BIIJ" />
-	</game>
-	<game name="Tsuukin Hitofude (Japan) (Beta)" cnname="通勤一笔">
-		<rom name="Tsuukin Hitofude (Japan) (Beta).gba" size="1048576" crc="9542E247" />
 	</game>
 	<game name="Tsuukin Hitofude (Japan) (Virtual Console)" cnname="通勤一笔">
 		<rom name="Tsuukin Hitofude (Japan) (Virtual Console).gba" size="4194304" crc="F4C7A95B" serial="BIIJ" />
@@ -10210,42 +9730,6 @@
 	<game name="Unfabulous (USA)" cnname="一本正经">
 		<rom name="Unfabulous (USA).gba" size="4194304" crc="2547F3A1" serial="BU4E" />
 	</game>
-	<game name="Unfabulous (USA) (Beta 1)">
-		<rom name="Unfabulous (USA) (Beta 1).gba" size="1077252" crc="CBBE4A57" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 10)">
-		<rom name="Unfabulous (USA) (Beta 10).gba" size="4154388" crc="1C85D06E" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 11)">
-		<rom name="Unfabulous (USA) (Beta 11).gba" size="4171048" crc="77A0663D" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 12)">
-		<rom name="Unfabulous (USA) (Beta 12).gba" size="4402956" crc="D3E36338" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 2)">
-		<rom name="Unfabulous (USA) (Beta 2).gba" size="1419168" crc="BC86EEC8" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 3)">
-		<rom name="Unfabulous (USA) (Beta 3).gba" size="1551692" crc="0845BE78" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 4)">
-		<rom name="Unfabulous (USA) (Beta 4).gba" size="1551740" crc="662F11D0" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 5)">
-		<rom name="Unfabulous (USA) (Beta 5).gba" size="2708408" crc="057E4BBC" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 6)">
-		<rom name="Unfabulous (USA) (Beta 6).gba" size="3406884" crc="F52E65E2" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 7)">
-		<rom name="Unfabulous (USA) (Beta 7).gba" size="4809124" crc="D4EA1AF8" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 8)">
-		<rom name="Unfabulous (USA) (Beta 8).gba" size="4247508" crc="76589323" serial="BU4E" />
-	</game>
-	<game name="Unfabulous (USA) (Beta 9)">
-		<rom name="Unfabulous (USA) (Beta 9).gba" size="4204052" crc="E0C3E150" serial="BU4E" />
-	</game>
 	<game name="Unglaublichen, Die (Germany)" cnname="超人特工队">
 		<rom name="Unglaublichen, Die (Germany).gba" size="8388608" crc="BDC06E57" serial="BICD" />
 	</game>
@@ -10296,9 +9780,6 @@
 	</game>
 	<game name="V-Rally 3 (USA) (En,Fr,Es)" cnname="V拉力赛车 3">
 		<rom name="V-Rally 3 (USA) (En,Fr,Es).gba" size="4194304" crc="D3AE3D37" serial="AVRE" />
-	</game>
-	<game name="V.I.P. (Europe) (Beta)">
-		<rom name="V.I.P. (Europe) (Beta).gba" size="1835120" crc="756D4EDA" />
 	</game>
 	<game name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl)" cnname="会员">
 		<rom name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="718A6C3B" serial="AVPP" />
@@ -10353,9 +9834,6 @@
 	</game>
 	<game name="WWF - Road to WrestleMania (USA, Europe)" cnname="WWF摔跤之路">
 		<rom name="WWF - Road to WrestleMania (USA, Europe).gba" size="4194304" crc="8D3B116E" serial="AWFE" />
-	</game>
-	<game name="WWF - Road to WrestleMania (USA, Europe) (Beta)" cnname="WWF摔跤之路">
-		<rom name="WWF - Road to WrestleMania (USA, Europe) (Beta).gba" size="4194304" crc="8314421B" />
 	</game>
 	<game name="Wade Hixton&#x27;s Counter Punch (USA, Europe)" cnname="维德 - 汉克斯的反击">
 		<rom name="Wade Hixton&#x27;s Counter Punch (USA, Europe).gba" size="8388608" crc="47B49060" serial="BSRE" />
@@ -10426,9 +9904,6 @@
 	<game name="WarioWare, Inc. - Mega Microgame$! (USA)" cnname="瓦里奥制造 - 迷你游戏大合集！">
 		<rom name="WarioWare, Inc. - Mega Microgame$! (USA).gba" size="8388608" crc="785D8B8C" serial="AZWE" />
 	</game>
-	<game name="WarioWare, Inc. - Mega Microgame$! (USA) (Beta)" cnname="瓦里奥制造 - 迷你游戏大合集！">
-		<rom name="WarioWare, Inc. - Mega Microgame$! (USA) (Beta).gba" size="8388608" crc="EC0C0C58" serial="AZWE" />
-	</game>
 	<game name="WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)" cnname="瓦里奥制造 - 迷你游戏大合集！">
 		<rom name="WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console).gba" size="8388608" crc="B0182907" serial="AZWE" />
 	</game>
@@ -10468,9 +9943,6 @@
 	<game name="Wild Thornberrys Movie, The (USA, Europe)" cnname="狂野丛林 - 电影">
 		<rom name="Wild Thornberrys Movie, The (USA, Europe).gba" size="4194304" crc="4E2C47BC" serial="AWLE" />
 	</game>
-	<game name="Wild Thornberrys Movie, The (USA, Europe) (Beta)" cnname="狂野丛林 - 电影">
-		<rom name="Wild Thornberrys Movie, The (USA, Europe) (Beta).gba" size="3374120" crc="E41720F5" serial="AGBJ" />
-	</game>
 	<game name="Wild Thornberrys, The - Chimp Chase (USA, Europe)" cnname="狂野棘林 - 猎杀黑猩猩">
 		<rom name="Wild Thornberrys, The - Chimp Chase (USA, Europe).gba" size="4194304" crc="F0CA0689" serial="AWTE" />
 	</game>
@@ -10507,8 +9979,8 @@
 	<game name="Wings (USA)" cnname="长空之翼">
 		<rom name="Wings (USA).gba" size="8388608" crc="49041BC8" serial="AWQE" />
 	</game>
-	<game name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" cnname="游戏2合1 - 小熊维尼 + 雷曼 3">
-		<rom name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba" size="16777216" crc="C2FC12E5" serial="BWZP" />
+	<game name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+		<rom name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba" size="16777216" crc="C2FC12E5" serial="BWZP" />
 	</game>
 	<game name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl)" cnname="小熊维尼 - 崎岖的冒险历程">
 		<rom name="Winnie the Pooh&#x27;s Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="E5A97A58" serial="BWHP" />
@@ -10637,10 +10109,10 @@
 		<rom name="XS Moto (USA).gba" size="4194304" crc="6DBBC17C" serial="BXME" />
 	</game>
 	<game name="Xploder Advance (Europe)">
-		<rom name="Xploder Advance (Europe) (Unl).gba" size="131072" crc="AD71F6FF" />
-	</game>
-	<game name="Xploder Advance (Europe) (Alt)">
 		<rom name="Xploder Advance (Europe) (Unl) (Alt).gba" size="131072" crc="4F3E7427" />
+	</game>
+	<game name="Xploder Advance (Europe)">
+		<rom name="Xploder Advance (Europe) (Unl).gba" size="131072" crc="AD71F6FF" />
 	</game>
 	<game name="YakOnTaks (World)">
 		<rom name="YakOnTaks (World) (Aftermarket) (Unl).gba" size="42360" crc="2517EF1E" />
@@ -10683,9 +10155,6 @@
 	</game>
 	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)" cnname="幽游白书 - 灵界侦探">
 		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA).gba" size="8388608" crc="D3784B52" serial="BYYE" />
-	</game>
-	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)" cnname="幽游白书 - 灵界侦探">
-		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta).gba" size="16777216" crc="8CBFA66B" />
 	</game>
 	<game name="Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)" cnname="幽游白书 - 灵界侦探">
 		<rom name="Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe).gba" size="8388608" crc="AEF6B7CC" serial="BRGE" />
@@ -10941,42 +10410,6 @@
 	</game>
 	<game name="Zoids - Legacy (USA)" cnname="机械兽新世纪">
 		<rom name="Zoids - Legacy (USA).gba" size="8388608" crc="302E75F3" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 1)">
-		<rom name="Zoids - Legacy (USA) (Beta 1).gba" size="8142980" crc="54D097B5" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 10)">
-		<rom name="Zoids - Legacy (USA) (Beta 10).gba" size="8343308" crc="ADFD62D3" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 11)">
-		<rom name="Zoids - Legacy (USA) (Beta 11).gba" size="8343792" crc="D0E62A12" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 12)">
-		<rom name="Zoids - Legacy (USA) (Beta 12).gba" size="8343792" crc="D553D143" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 2)">
-		<rom name="Zoids - Legacy (USA) (Beta 2).gba" size="8160864" crc="65399713" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 3)">
-		<rom name="Zoids - Legacy (USA) (Beta 3).gba" size="8170340" crc="D1FEC822" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 4)">
-		<rom name="Zoids - Legacy (USA) (Beta 4).gba" size="8196708" crc="4906A9E8" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 5)">
-		<rom name="Zoids - Legacy (USA) (Beta 5).gba" size="8328616" crc="B16A7B9D" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 6)">
-		<rom name="Zoids - Legacy (USA) (Beta 6).gba" size="8364740" crc="B9E49F54" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 7)">
-		<rom name="Zoids - Legacy (USA) (Beta 7).gba" size="8367460" crc="C3D7609D" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 8)">
-		<rom name="Zoids - Legacy (USA) (Beta 8).gba" size="8367548" crc="BB2A91C4" serial="AZ2E" />
-	</game>
-	<game name="Zoids - Legacy (USA) (Beta 9)">
-		<rom name="Zoids - Legacy (USA) (Beta 9).gba" size="8343144" crc="3F3FF5A6" serial="AZ2E" />
 	</game>
 	<game name="Zoids Saga (Japan)" cnname="机兽新世纪">
 		<rom name="Zoids Saga (Japan).gba" size="8388608" crc="5975DDA8" serial="ATZJ" />
