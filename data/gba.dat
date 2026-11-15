@@ -2275,6 +2275,9 @@
 	<game name="Discrete Orange (World) (Demo 3)">
 		<rom name="Discrete Orange (World) (Demo 3) (Aftermarket) (Unl).gba" size="859244" crc="83DCA48C" />
 	</game>
+	<game name="Disney Cart (USA)">
+		<rom name="Disney Cart (USA) (Unl).gba" size="33554432" crc="5DC17EEE" />
+	</game>
 	<game name="Disney Princesas (Spain)" cnname="迪斯尼的公主们">
 		<rom name="Disney Princesas (Spain).gba" size="8388608" crc="425785C8" serial="AQDS" />
 	</game>
@@ -2426,7 +2429,7 @@
 		<rom name="Donald Duck Advance (USA).gba" size="8388608" crc="936DAAB2" serial="ADKE" />
 	</game>
 	<game name="Donkey Kong 2 (USA)">
-		<rom name="Donkey Kong 2 (USA) (Unl).gba" size="33554432" crc="006A6AFA" />
+		<rom name="Donkey Kong 2 (USA) (Unl).unl" size="120072" crc="BEFF35AB" />
 	</game>
 	<game name="Donkey Kong Country (Europe) (En,Fr,De,Es,It)" cnname="超级大金刚">
 		<rom name="Donkey Kong Country (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="41D277FE" serial="A5NP" />
@@ -2527,8 +2530,8 @@
 	<game name="Dr. Muto (Europe) (En,Fr,De,Es,It)" cnname="疯狂博士">
 		<rom name="Dr. Muto (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="46736F58" serial="A6TP" />
 	</game>
-	<game name="Dr. Seuss&#x27; The Cat in the Hat (USA)" cnname="苏斯博士的爱戴帽子的猫">
-		<rom name="Dr. Seuss&#x27; The Cat in the Hat (USA).gba" size="4194304" crc="13ADBF3B" serial="AQTE" />
+	<game name="Dr. Seuss&#x27; the Cat in the Hat (USA)" cnname="苏斯博士的爱戴帽子的猫">
+		<rom name="Dr. Seuss&#x27; the Cat in the Hat (USA).gba" size="4194304" crc="13ADBF3B" serial="AQTE" />
 	</game>
 	<game name="Dr. Sudoku (Europe)" cnname="数独博士">
 		<rom name="Dr. Sudoku (Europe).gba" size="4194304" crc="E9848D13" serial="BUOP" />
@@ -2694,6 +2697,12 @@
 	</game>
 	<game name="Duke Nukem Advance (World) (En,Fr,De,It) (Evercade)" cnname="毁灭公爵 A">
 		<rom name="Duke Nukem Advance (World) (En,Fr,De,It) (Evercade).gba" size="8388608" crc="2B077058" />
+	</game>
+	<game name="Dungeon Durban (World) (v1.0.1)">
+		<rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" crc="9C5D3395" />
+	</game>
+	<game name="Dungeon Durban (World) (v1.1.0)">
+		<rom name="Dungeon Durban (World) (v1.1.0) (Aftermarket) (Unl).gba" size="3445528" crc="5C369367" />
 	</game>
 	<game name="Dungeon Tactics Advance (World)">
 		<rom name="Dungeon Tactics Advance (World) (Aftermarket) (Unl).gba" size="8867571" crc="C8385702" />
@@ -3591,6 +3600,9 @@
 	</game>
 	<game name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)" cnname="异次元防卫者">
 		<rom name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="4194304" crc="4D8F49F9" serial="AG8E" />
+	</game>
+	<game name="Gambit Advance (World) (v1.1)">
+		<rom name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl).gba" size="2077496" crc="F4942FAA" />
 	</game>
 	<game name="Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)" cnname="胜负师传说 - 哲也苏醒传说">
 		<rom name="Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan).gba" size="8388608" crc="8A879018" serial="ATYJ" />
@@ -7036,6 +7048,9 @@
 	<game name="Pokemon - Feuerrote Edition (Germany)" cnname="口袋妖怪 - 火红">
 		<rom name="Pokemon - Feuerrote Edition (Germany).gba" size="16777216" crc="1A81EEDF" serial="BPRD" />
 	</game>
+	<game name="Pokemon - Fire Red (USA) (Pirate)">
+		<rom name="Pokemon - Fire Red (USA) (Pirate).gba" size="33554432" crc="BB9E889F" />
+	</game>
 	<game name="Pokemon - FireRed Version (USA, Europe)" cnname="口袋妖怪 - 火红">
 		<rom name="Pokemon - FireRed Version (USA, Europe).gba" size="16777216" crc="DD88761C" serial="BPRE" />
 	</game>
@@ -8510,10 +8525,10 @@
 		<rom name="Spider-Man 3 (Spain).gba" size="8388608" crc="E6251FD3" serial="BI3S" />
 	</game>
 	<game name="Spider-Man 3 (USA)" cnname="蜘蛛侠 3">
-		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3E1B693A" />
+		<rom name="Spider-Man 3 (USA).gba" size="8388608" crc="AD0228A1" serial="BI3E" />
 	</game>
 	<game name="Spider-Man 3 (USA)" cnname="蜘蛛侠 3">
-		<rom name="Spider-Man 3 (USA).gba" size="8388608" crc="AD0228A1" serial="BI3E" />
+		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3E1B693A" />
 	</game>
 	<game name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany)" cnname="小马王">
 		<rom name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany).gba" size="4194304" crc="4785EEE0" serial="AC6D" />
@@ -9783,6 +9798,9 @@
 	</game>
 	<game name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl)" cnname="会员">
 		<rom name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="718A6C3B" serial="AVPP" />
+	</game>
+	<game name="Va-11 Hall-A (World) (v0.1.2)">
+		<rom name="Va-11 Hall-A (World) (v0.1.2) (Aftermarket) (Unl).gba" size="702108" crc="0DC26980" />
 	</game>
 	<game name="Van Helsing (Europe) (En,Fr,De,Es,It)" cnname="范海辛">
 		<rom name="Van Helsing (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="9E8748C9" serial="BANP" />
